@@ -2,17 +2,17 @@
   "name": "ซีรีย์ละครไทย",
   "author": "",
   "info": "",
-  "image": "https://www.dropbox.com/s/1a8gvox002n6cdf/Lakornthai%20Main.png?dl=1",
+  "image": "https://www.dropbox.com/s/cnvcavk8t2cncub/Main.jpg?dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Share/main/Series-Thai",
   "groups": [
     {
       "name": "ออกอากาศ",
-      "image": "https://www.dropbox.com/s/cnvcavk8t2cncub/Main.jpg?dl=0",
+      "image": "https://www.dropbox.com/s/cnvcavk8t2cncub/Main.jpg?dl=1",
       "url": "https://raw.githubusercontent.com/Terminal-48/Share/main/On-air"
     },
     {
       "name": "จบแล้ว",
-      "image": "https://www.dropbox.com/s/cnvcavk8t2cncub/Main.jpg?dl=0",
+      "image": "https://www.dropbox.com/s/cnvcavk8t2cncub/Main.jpg?dl=1",
       "url": "https://raw.githubusercontent.com/Terminal-48/Share/main/Finish"
     }
     
