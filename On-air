@@ -1,0 +1,290 @@
+{
+  "name": "กำลังฉาย",
+  "author": "อัพเดทล่าสุด17/01/2024",
+  "info": "",
+  "image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+  "url": "https://raw.githubusercontent.com/Terminal-48/Share/main/On-air",
+  "groups": [
+    {
+      "name": "นางทาสหัวทอง (ยังไม่จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1b052292-2c85-4c3d-912a-6daab48d4f46/_"
+        }
+      ]
+    },
+    {
+      "name": "เพื่อนตาย (ยังไม่จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/80a13967-04ac-4e37-bf83-3a2ddc5d068e/_"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4889cef3-674f-442c-a025-3f6ecc09fe88/_"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5cf289b9-9e8d-4ae6-8f50-bed633d15656/_"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e9613824-6d17-41b7-8eb8-c7955f1a4715/_"
+        }
+      ]
+    },
+    {
+      "name": "เป็นต่อ",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/57f8cc3d-903a-45d6-ab80-fae92c5dd454/_"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/28ea0b04-933d-41ca-8ed2-d306b1e0210c/_"
+        }
+      ]
+    },
+    {
+      "name": "ศพกระซิบ (ยังไม่จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Whisperer-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Whisperer-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/31281e66-14f9-497c-8661-2c1443a7bd90/_"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Whisperer-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/625d2f5e-dc64-42a5-a385-3e43bc2747eb/_"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Whisperer-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ac54ee01-f27b-4e89-8fb8-7fbd3f9ed390/_"
+        }
+      ]
+    },
+    {
+      "name": "มือปราบกระทะรั่ว (ยังไม่จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7e4b75d4-2794-49e1-85e9-747fd8483a0c/_"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9222ea48-bafd-4936-9f85-11e97a668cc4/_"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3d58e5de-cc89-4199-b769-c4c16759e2fa/_"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/21b991a5-8386-40b8-b652-5b9894bd5acd/_"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/6b25c940-a696-4c8e-b04d-0a95efff3d7a/_"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9f540215-1bfa-42ef-99b4-a1d3defd8d22/_"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c6c75d5b-6edb-47a2-8165-0af4967cc987/_"
+        }
+      ]
+    },
+    {
+      "name": "หารักด้วยใจเธอ (ยังไม่จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/6e507752-fb5f-4cd7-9775-71d63abfc313/_"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5c953879-be82-4d53-8f9e-49b56ccba190/_"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0d5d1b7a-609a-4d86-841d-ebd4c4cb2e92/_"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4dad2ef4-d500-4b0e-bfca-9223e699b3df/_"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/78720a8c-109e-4ef7-9c97-324092d9c04d/_"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e580368f-5314-406f-922f-7faa3775ab7a/_"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4c3d9f15-8a3a-415f-aa63-c7eb5c1a4538/_"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/91178ca7-c45e-45ec-916e-cd9a25e61860/_"
+        }
+      ]
+    },
+    {
+      "name": "ลางสังหรณ์ (ยังไม่จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/aad65d13-f9d0-4ac3-9a5d-15fa499ced83/_"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e71705cb-337f-4ff8-aff0-304edc1e6a63/_"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/84057af6-aa35-44ba-81eb-bd45cefe9151/_"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8ebe1de8-b05a-4091-8442-0a7bb2136248/_"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/caaafc21-de66-4f6a-8786-8bb8129b3789/_"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/96671800-061c-4339-8e21-118a27bffb6d/_"
+        }
+      ]
+    },
+    {
+      "name": "แช่งชักหักกระดูก (ยังไม่จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c1f43ef7-d2fd-4e1c-bd73-3a463e72dc1e/_"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8c7d3eac-6398-459a-af6c-af55480b4fba/_"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/93878036-0b57-4895-8da8-ebbe8825d30a/_"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/480e2002-0400-4df5-b1b2-d93c192faedb/_"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7ecf1791-b9f9-4fc6-a9cd-5d178819ff09/_"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1e6cde50-02e4-4277-89dc-4c4978553cba/_"
+        }
+      ]
+    }
+    
+      ]
+    }
+  ]
+}
