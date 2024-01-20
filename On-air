@@ -5,316 +5,886 @@
   "image": "https://www.dropbox.com/s/cnvcavk8t2cncub/Main.jpg?dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Share/main/On-air",
   "groups": [
-    {
-      "name": "นางทาสหัวทอง (ยังไม่จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-185x278.webp",
+        {
+      "name": "นางทาสหัวทอง [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-นางทาสหัวทอง-300x450.jpg",
+      "info": "HD(TH)",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-185x278.webp",
-          "url": "https://xxx.77player.xyz/m3u8/8c05dec362f445683b0a9868/8c05dec362f445683b0a9868800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-นางทาสหัวทอง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e9682225c567e1e0435c4199/e9682225c567e1e0435c4199438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/50b04eb1-5ed7-4d91-b09e-bbfa209db747/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-นางทาสหัวทอง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fd44eff6dd7ec84668697710/fd44eff6dd7ec84668697710438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/ce9ce6c1-ae7c-4fd7-a963-95634cacda02/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-นางทาสหัวทอง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fec6ae1018bbe82559604e40/fec6ae1018bbe82559604e40438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/de6380f8-3e1d-47a6-9324-524f43991eaa/_"
-        }
-      ]
-    },
-    {
-      "name": "เพื่อนตาย (ยังไม่จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/80a13967-04ac-4e37-bf83-3a2ddc5d068e/_"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/4889cef3-674f-442c-a025-3f6ecc09fe88/_"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/5cf289b9-9e8d-4ae6-8f50-bed633d15656/_"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Dead-Friend-Forever-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/e9613824-6d17-41b7-8eb8-c7955f1a4715/_"
-        }
-      ]
-    },
-    {
-      "name": "เป็นต่อ (2024)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/57f8cc3d-903a-45d6-ab80-fae92c5dd454/_"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/28ea0b04-933d-41ca-8ed2-d306b1e0210c/_"
-        }
-      ]
-    },
-    {
-      "name": "ศพกระซิบ (ยังไม่จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Whisperer-2023-185x278.webp",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Whisperer-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/31281e66-14f9-497c-8661-2c1443a7bd90/_"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Whisperer-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/625d2f5e-dc64-42a5-a385-3e43bc2747eb/_"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Whisperer-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/ac54ee01-f27b-4e89-8fb8-7fbd3f9ed390/_"
-        }
-      ]
-    },
-    {
-      "name": "มือปราบกระทะรั่ว (ยังไม่จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/7e4b75d4-2794-49e1-85e9-747fd8483a0c/_"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/9222ea48-bafd-4936-9f85-11e97a668cc4/_"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/3d58e5de-cc89-4199-b769-c4c16759e2fa/_"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/21b991a5-8386-40b8-b652-5b9894bd5acd/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-นางทาสหัวทอง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d9f016baaad09ca7ac7463e2/d9f016baaad09ca7ac7463e2438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/6b25c940-a696-4c8e-b04d-0a95efff3d7a/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-นางทาสหัวทอง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/786dd975fd1dc3055fc074c0/786dd975fd1dc3055fc074c0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "คืนของฉันฝันของเธอ [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Night-Dream-2023-คืนของฉันฝันของเธอ-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Night-Dream-2023-คืนของฉันฝันของเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b0007487f8f4fce1fba38f01/b0007487f8f4fce1fba38f01438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Night-Dream-2023-คืนของฉันฝันของเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5e9af0b79d721b3e087616cb/5e9af0b79d721b3e087616cb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Night-Dream-2023-คืนของฉันฝันของเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f2647bfcd3177429a6c500d4/f2647bfcd3177429a6c500d4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Night-Dream-2023-คืนของฉันฝันของเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6047d61ab8338766e9253613/6047d61ab8338766e9253613438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "สตาร์ทอัพ [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1f2908d8f731e5682cd62e84/1f2908d8f731e5682cd62e84438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a89f4910fd04ece8f895bf9c/a89f4910fd04ece8f895bf9c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/540ba886fa9e62f4b528ba1b/540ba886fa9e62f4b528ba1b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/28c86d3b8c871fb47a78e9d3/28c86d3b8c871fb47a78e9d3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "พิษเบ๊บ เดอะ ซีรีส์ [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/067396c4aa7693d939ad2768/067396c4aa7693d939ad2768438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/cc8fedf3bc3dea970be1956d/cc8fedf3bc3dea970be1956d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0eafed7b3fd487b54ec1e5d9/0eafed7b3fd487b54ec1e5d9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ab8f58ae7967fe4c2843051c/ab8f58ae7967fe4c2843051c438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/9f540215-1bfa-42ef-99b4-a1d3defd8d22/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/8020b261ad06c4d8e9ff698c/8020b261ad06c4d8e9ff698c438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/c6c75d5b-6edb-47a2-8165-0af4967cc987/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/59d01d283941e16651f2ecc0/59d01d283941e16651f2ecc0438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/1a9f26d0-005c-4470-8770-df06a14966c2/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/acb5862bd1592e4aaf6eb026/acb5862bd1592e4aaf6eb026438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 9",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Undercover-Chef-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/da633132-a78f-4e98-9bff-88c8ac9e04e2/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/dd446620db0fe1716eaab1a4/dd446620db0fe1716eaab1a4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b783c5937ea7c886a0d2885a/b783c5937ea7c886a0d2885a438.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "หารักด้วยใจเธอ (ยังไม่จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
+      "name": "มือปราบกระทะรั่ว [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+      "info": "HD(TH)",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/6e507752-fb5f-4cd7-9775-71d63abfc313/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/55b0c5d7681f51d5e692d62e/55b0c5d7681f51d5e692d62e438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/5c953879-be82-4d53-8f9e-49b56ccba190/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1b53cbd513baf2853bd7d261/1b53cbd513baf2853bd7d261438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/0d5d1b7a-609a-4d86-841d-ebd4c4cb2e92/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f6bd5d146a67a192aec1b005/f6bd5d146a67a192aec1b005438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/4dad2ef4-d500-4b0e-bfca-9223e699b3df/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/931461a72ab642fdf221ef9f/931461a72ab642fdf221ef9f438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/78720a8c-109e-4ef7-9c97-324092d9c04d/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/dd23a4c14d1a2c01e3645bb6/dd23a4c14d1a2c01e3645bb6438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/e580368f-5314-406f-922f-7faa3775ab7a/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/606a9db78369b392eb5a13e5/606a9db78369b392eb5a13e5438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/4c3d9f15-8a3a-415f-aa63-c7eb5c1a4538/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d9e866aa10d5675fe5c6ddf0/d9e866aa10d5675fe5c6ddf0438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Find-Yourself-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/91178ca7-c45e-45ec-916e-cd9a25e61860/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e67005956f9afcf7f42facde/e67005956f9afcf7f42facde438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/29e803f9af5b0b29736ec2cb/29e803f9af5b0b29736ec2cb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-มือปราบกระทะรั่ว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/428e48f5ad828a816ca39cb4/428e48f5ad828a816ca39cb4438.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "ลางสังหรณ์ (ยังไม่จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
+      "name": "ยอมเป็นของฮิม [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+      "info": "HD(TH)",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/aad65d13-f9d0-4ac3-9a5d-15fa499ced83/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/296c920a16c805fe785f5c71/296c920a16c805fe785f5c71438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/e71705cb-337f-4ff8-aff0-304edc1e6a63/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3ca38bcf0c757d33a971318f/3ca38bcf0c757d33a971318f438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/84057af6-aa35-44ba-81eb-bd45cefe9151/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a27610348bc7ad8cfa90b4d1/a27610348bc7ad8cfa90b4d1438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/8ebe1de8-b05a-4091-8442-0a7bb2136248/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f2b9c381b0d6b4e02e8f5e66/f2b9c381b0d6b4e02e8f5e66438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/caaafc21-de66-4f6a-8786-8bb8129b3789/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3be0340f2f7d0d4961d7ae7b/3be0340f2f7d0d4961d7ae7b438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/The-Sign-UNCUT-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/96671800-061c-4339-8e21-118a27bffb6d/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a2ea5ce4402f38f2052a6489/a2ea5ce4402f38f2052a6489438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/50c0794b5aa8dde38c6e91e2/50c0794b5aa8dde38c6e91e2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/For-Him-2023-ยอมเป็นของฮิม-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/4a5ed5f1dc4b3d7d9d4dab16/4a5ed5f1dc4b3d7d9d4dab16800.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "แช่งชักหักกระดูก (ยังไม่จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
+      "name": "ไทม์ ผ่าน เวลา [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-Version-300x450.jpg",
+      "info": "HD(TH)",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/c1f43ef7-d2fd-4e1c-bd73-3a463e72dc1e/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-Version-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/58c7d18cab1b25ee60dc380d/58c7d18cab1b25ee60dc380d438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/8c7d3eac-6398-459a-af6c-af55480b4fba/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-Version-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a805acc5ada5809ae64c0755/a805acc5ada5809ae64c0755438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "7 วันก่อนวาเลนไทน์ [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/82f7e86d55133782c1e2e979/82f7e86d55133782c1e2e979438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/2307b77b5e896bfedc81ff1b/2307b77b5e896bfedc81ff1b438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/93878036-0b57-4895-8da8-ebbe8825d30a/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/54e1244f6b28ae140465fe3b/54e1244f6b28ae140465fe3b438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/480e2002-0400-4df5-b1b2-d93c192faedb/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b0f5f06ec36c6e752c3a2057/b0f5f06ec36c6e752c3a2057438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/7ecf1791-b9f9-4fc6-a9cd-5d178819ff09/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c00120f20797211cf5c1e09e/c00120f20797211cf5c1e09e438.m3u8",
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Curse-Code-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/1e6cde50-02e4-4277-89dc-4c4978553cba/_"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/59a77db3b9c5e56462a7ed32/59a77db3b9c5e56462a7ed32438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fa58a4cb46d0b9f142b69ae0/fa58a4cb46d0b9f142b69ae0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a5e4c01f691021e2161dddea/a5e4c01f691021e2161dddea438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/7-Days-Before-Valentine-2023-7-วันก่อนวาเลนไทน์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b8cbdf0df1f4127e3a44dd80/b8cbdf0df1f4127e3a44dd80438.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
-    }
-    
+    },
+    {
+      "name": "หารักด้วยใจเธอ [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fbf980d19cda9ef125fa25a8/fbf980d19cda9ef125fa25a8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/82843ed69e21db17ee06cfa7/82843ed69e21db17ee06cfa7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/33b49c3c7efd1a57ef7d90ea/33b49c3c7efd1a57ef7d90ea438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/772b1d0ec1672279e4dfb660/772b1d0ec1672279e4dfb660438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/77cbc95cfa936706dd789b55/77cbc95cfa936706dd789b55438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/761887d66458d8c7b808029a/761887d66458d8c7b808029a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6990cec47cacffc91184d9fc/6990cec47cacffc91184d9fc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/28bbb8cd43dab46768ed30b6/28bbb8cd43dab46768ed30b6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "อาหารเป็นยังไงครับหมอ [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cooking-Crush-2023-อาหารเป็นยังไงครับหมอ-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cooking-Crush-2023-อาหารเป็นยังไงครับหมอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/543a5191fd40ecc2a71573ad/543a5191fd40ecc2a71573ad438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cooking-Crush-2023-อาหารเป็นยังไงครับหมอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3f489bd05ff6787f079adc8c/3f489bd05ff6787f079adc8c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cooking-Crush-2023-อาหารเป็นยังไงครับหมอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ed8e9bce5ad24b451c309f25/ed8e9bce5ad24b451c309f25438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cooking-Crush-2023-อาหารเป็นยังไงครับหมอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/88f64345b03937d879723721/88f64345b03937d879723721438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cooking-Crush-2023-อาหารเป็นยังไงครับหมอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/87569c61af1b071effc67551/87569c61af1b071effc67551438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cooking-Crush-2023-อาหารเป็นยังไงครับหมอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/69da99122f16585873b48d36/69da99122f16585873b48d36438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cooking-Crush-2023-อาหารเป็นยังไงครับหมอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0dfdef87987db75732dc4a23/0dfdef87987db75732dc4a23438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "รักเราเท่าจักรวาล [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fb2ea8d66b9b0d30da42d5d8/fb2ea8d66b9b0d30da42d5d8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/be20b8534cf29d49a5767542/be20b8534cf29d49a5767542438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/decd1b49c4567b38b0a3e671/decd1b49c4567b38b0a3e671438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/49c6f856f0f6cd7c5de3764f/49c6f856f0f6cd7c5de3764f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e0871d946a60754339bd84f5/e0871d946a60754339bd84f5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5253ea8f4d645154398567ea/5253ea8f4d645154398567ea438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9d266a77fb26795c85f7d52c/9d266a77fb26795c85f7d52c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/76eeae8e3d158113e797457a/76eeae8e3d158113e797457a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f46bbf1bf8a6188f282d23ce/f46bbf1bf8a6188f282d23ce438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/cd72e315d3099853df80cd79/cd72e315d3099853df80cd79438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/cfe6e6ae10f873e7b99d7137/cfe6e6ae10f873e7b99d7137438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fd9eb695883315fc8dcf3786/fd9eb695883315fc8dcf3786438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/15ac3d92852cfd69b87b9262/15ac3d92852cfd69b87b9262438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/67ac5429b02ab24eff0ba579/67ac5429b02ab24eff0ba579438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/60f869f35595edcb16cec297/60f869f35595edcb16cec297438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9ee45c90140b0ee9f01c97bc/9ee45c90140b0ee9f01c97bc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b8fdaff2ec975a4c364fb10f/b8fdaff2ec975a4c364fb10f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/398bfbe26f8e6ba10314877c/398bfbe26f8e6ba10314877c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/801e021f5cda379d0da99107/801e021f5cda379d0da99107438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/adde8dc7262745e14cd0a82c/adde8dc7262745e14cd0a82c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/184d457529970a918ab073cc/184d457529970a918ab073cc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1d00cf74ac03a04e01821a1b/1d00cf74ac03a04e01821a1b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "30 ยังซิง [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Cherry-Magic-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Cherry-Magic-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/4417847ddc05d16eae52ccfa/4417847ddc05d16eae52ccfa438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Cherry-Magic-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/55474ca020fc1d7112ef586d/55474ca020fc1d7112ef586d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Cherry-Magic-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/922b70c63c09f8afe2054230/922b70c63c09f8afe2054230438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Cherry-Magic-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6263f6be75000a3cd8f5634c/6263f6be75000a3cd8f5634c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Cherry-Magic-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9f53e5e2b96432513eaf9617/9f53e5e2b96432513eaf9617438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "เพื่อน ตาย [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Dead-Friend-Forever-2023-เพื่อน-ตาย-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Dead-Friend-Forever-2023-เพื่อน-ตาย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/66b01396996d713fbf8c4038/66b01396996d713fbf8c4038438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Dead-Friend-Forever-2023-เพื่อน-ตาย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/56c88cbe87ba153f6abe002c/56c88cbe87ba153f6abe002c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Dead-Friend-Forever-2023-เพื่อน-ตาย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/37208e64d2fb295359fe7e8f/37208e64d2fb295359fe7e8f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Dead-Friend-Forever-2023-เพื่อน-ตาย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/17978be2a0fbf7186c3b9ea0/17978be2a0fbf7186c3b9ea0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "ลางสังหรณ์ [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/88e8ad7d11b3b658db475f90/88e8ad7d11b3b658db475f90438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1ffe7c3405df9975b9833583/1ffe7c3405df9975b9833583438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b3757ea135245bc8f6370524/b3757ea135245bc8f6370524438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f666c90a96be873c18a4a2f7/f666c90a96be873c18a4a2f7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/09a29247dfd14c821eba7782/09a29247dfd14c821eba7782438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1b3d8b795664cc713cfc4c9b/1b3d8b795664cc713cfc4c9b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d88058e556a158752e6792f2/d88058e556a158752e6792f2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Sign-UNCUT-2023-ลางสังหรณ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/4b80b6e0bd2998f99046ef35/4b80b6e0bd2998f99046ef35438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "แช่งชัก หักกระดูก [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Curse-Code-2023-แช่งชัก-หักกระดูก-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Curse-Code-2023-แช่งชัก-หักกระดูก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a74ca7428b93b403d915d6d8/a74ca7428b93b403d915d6d8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Curse-Code-2023-แช่งชัก-หักกระดูก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3cc8f0267c6489d19d250966/3cc8f0267c6489d19d250966438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Curse-Code-2023-แช่งชัก-หักกระดูก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/98e613c3f09f7814cecb0532/98e613c3f09f7814cecb0532438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Curse-Code-2023-แช่งชัก-หักกระดูก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f7bf8df7f8891e783f875974/f7bf8df7f8891e783f875974438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Curse-Code-2023-แช่งชัก-หักกระดูก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/cc7a96a682061b3ba50594d5/cc7a96a682061b3ba50594d5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Curse-Code-2023-แช่งชัก-หักกระดูก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/068e3ef5cda2f72b6db0a3bb/068e3ef5cda2f72b6db0a3bb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
       ]
     }
   ]
