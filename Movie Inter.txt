@@ -6,132 +6,6 @@
   "url": "https://raw.githubusercontent.com/Terminal-48/Share/main/Movie Inter.txt",
   "groups": [
     {
-      "name": "เดดพูล (2016)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดดพูล",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เดดพูล",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/63ab0cbdedda5cd8c5f389e9/63ab0cbdedda5cd8c5f389e9800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "เดดพูล 2 (2018)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดดพูล 2",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เดดพูล 2",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/8cb10e1c50880352a26351ab/8cb10e1c50880352a26351ab800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "ทิราบีเตีย (2007)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Bridge-to-Terabithia-2007-ทิราบีเตีย-สะพานมหัศจรรย์-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ทิราบีเตีย",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Bridge-to-Terabithia-2007-ทิราบีเตีย-สะพานมหัศจรรย์-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/cd9a12fda06bd91b173dede1/cd9a12fda06bd91b173dede1438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ทิราบีเตีย",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Bridge-to-Terabithia-2007-ทิราบีเตีย-สะพานมหัศจรรย์-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/528100a2c4db995cb265161f/528100a2c4db995cb265161f800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "ฝรั่งเซ่นผี (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฝรั่งเซ่นผี",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/959f38c46ac2c1db385c4b26/959f38c46ac2c1db385c4b26438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ฝรั่งเซ่นผี",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/d7c4bb5e1924585d484db87a/d7c4bb5e1924585d484db87a800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "เดอะ มาร์เวลส์ (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดอะ มาร์เวลส์",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6b2577e7eafaf8b9df514272/6b2577e7eafaf8b9df514272438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เดอะ มาร์เวลส์",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/eb6e4c162b82758611de2430/eb6e4c162b82758611de2430800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "อาร์ไกล์ ยอดสายลับ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Argylle-2024-อาร์ไกล์-ยอดสายลับ-1-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "อาร์ไกล์ ยอดสายลับ",
-          "info": "ZOOM (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Argylle-2024-อาร์ไกล์-ยอดสายลับ-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/858bc3412e702504cbcc1743/858bc3412e702504cbcc1743438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "อาร์ไกล์ ยอดสายลับ",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Argylle-2024-อาร์ไกล์-ยอดสายลับ-1-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/197591965e702142940a5379/197591965e702142940a5379800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "เดอะ มาร์เวลส์ (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
       "info": "",
@@ -287,7 +161,28 @@
           "name": "เดอะ คาราเต้ คิด",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Karate-Kid-2010-เดอะ-คาราเต้-คิด-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/6301653419e4de206fc764c13971798f/6301653419e4de206fc764c13971798f.m3u8",
+          "url": "https://main.freecdnn.com/m3u8/ee816377ec1f31dab99b0ca0/ee816377ec1f31dab99b0ca0168.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "แดนหลอนสยองใต้โลก (2014)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "แดนหลอนสยองใต้โลก",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-300x450.jpg",
+          "url": "https://main.freecdnn.com/newplaylist/bdce1c398ead1a9ba9feb23d/bdce1c398ead1a9ba9feb23d.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "แดนหลอนสยองใต้โลก",
+          "info": "สำรอง (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-300x450.jpg",
+          "url": "https://hot.freecdnn.com/m3u8/6a00763196a6387c96e54bea/6a00763196a6387c96e54bea800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
