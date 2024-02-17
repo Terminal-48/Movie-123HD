@@ -161,7 +161,14 @@
           "name": "เดอะ คาราเต้ คิด",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Karate-Kid-2010-เดอะ-คาราเต้-คิด-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/ee816377ec1f31dab99b0ca0/ee816377ec1f31dab99b0ca0168.m3u8",
+          "url": "https://xxx.77player.xyz/ioshls/6301653419e4de206fc764c13971798f/6301653419e4de206fc764c13971798f.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เดอะ คาราเต้ คิด",
+          "info": "สำรอง (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Karate-Kid-2010-เดอะ-คาราเต้-คิด-300x450.png",
+          "url": "https://hot.freecdnn.com/ioshls/6301653419e4de206fc764c13971798f/6301653419e4de206fc764c13971798f.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -175,7 +182,7 @@
           "name": "แดนหลอนสยองใต้โลก",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/newplaylist/bdce1c398ead1a9ba9feb23d/bdce1c398ead1a9ba9feb23d.m3u8",
+          "url": "https://main.freecdnn.com/m3u8/bdce1c398ead1a9ba9feb23d/bdce1c398ead1a9ba9feb23d438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
