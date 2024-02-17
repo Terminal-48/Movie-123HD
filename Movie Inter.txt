@@ -14,7 +14,7 @@
           "name": "เดอะ มาร์เวลส์",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6b2577e7eafaf8b9df514272/6b2577e7eafaf8b9df514272438.m3u8",
+          "url": "https://main.24playerhd.com/m3u8/6b2577e7eafaf8b9df514272/6b2577e7eafaf8b9df514272438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -35,7 +35,7 @@
           "name": "อาร์ไกล์ ยอดสายลับ",
           "info": "ZOOM (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Argylle-2024-อาร์ไกล์-ยอดสายลับ-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/858bc3412e702504cbcc1743/858bc3412e702504cbcc1743438.m3u8",
+          "url": "https://main.24playerhd.com/m3u8/858bc3412e702504cbcc1743/858bc3412e702504cbcc1743438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -56,7 +56,7 @@
           "name": "เจ้าสังเวียน",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-No-Surrender-2016-เจ้าสังเวียน-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9da787a500fc5b358f2ae3a7/9da787a500fc5b358f2ae3a7438.m3u8",
+          "url": "https://main.24playerhd.com/m3u8/9da787a500fc5b358f2ae3a7/9da787a500fc5b358f2ae3a7438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -77,7 +77,7 @@
           "name": "เนฟเวอร์ แบ็ค ดาวน์ สู้โค่นสังเวียน",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-2-The-Beatdown-2011-เนฟเวอร์-แบ็ค-ดาวน์-สู้โค่นสังเวียน-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6879188fba2652f7affc8df8/6879188fba2652f7affc8df8438.m3u8",
+          "url": "https://main.24playerhd.com/m3u8/6879188fba2652f7affc8df8/6879188fba2652f7affc8df8438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -98,7 +98,7 @@
           "name": "กระชากใจสู้แล้วคว้าใจเธอ",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-2008-กระชากใจสู้แล้วคว้าใจเธอ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/0c5c233584a10fe54a38d9ab/0c5c233584a10fe54a38d9ab438.m3u8",
+          "url": "https://main.24playerhd.com/m3u8/0c5c233584a10fe54a38d9ab/0c5c233584a10fe54a38d9ab438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -119,7 +119,7 @@
           "name": "Frankenfish (2004)",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Frankenfish-2004-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/5a7d0bff4acecce92ffaccbd/5a7d0bff4acecce92ffaccbd438.m3u8",
+          "url": "https://main.24playerhd.com/m3u8/5a7d0bff4acecce92ffaccbd/5a7d0bff4acecce92ffaccbd438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -140,7 +140,7 @@
           "name": "Sick (2022)",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Sick-2022-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/e7390346d4b4e5249b881109/e7390346d4b4e5249b881109438.m3u8",
+          "url": "https://main.24playerhd.com/m3u8/e7390346d4b4e5249b881109/e7390346d4b4e5249b881109438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -182,7 +182,7 @@
           "name": "แดนหลอนสยองใต้โลก",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/bdce1c398ead1a9ba9feb23d/bdce1c398ead1a9ba9feb23d438.m3u8",
+          "url": "https://main.24playerhd.com/m3u8/bdce1c398ead1a9ba9feb23d/bdce1c398ead1a9ba9feb23d438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
