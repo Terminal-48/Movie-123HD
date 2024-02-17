@@ -116,14 +116,14 @@
       "info": "",
       "stations": [
         {
-          "name": "Frankenfish (2004)",
+          "name": "Frankenfish",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Frankenfish-2004-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/5a7d0bff4acecce92ffaccbd/5a7d0bff4acecce92ffaccbd438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Frankenfish (2004)",
+          "name": "Frankenfish",
           "info": "สำรอง (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Frankenfish-2004-300x450.jpg",
           "url": "https://hot.freecdnn.com/m3u8/c0b2b405be145a74184f3535/c0b2b405be145a74184f3535800.m3u8",
@@ -137,14 +137,14 @@
       "info": "",
       "stations": [
         {
-          "name": "Sick (2022)",
+          "name": "Sick",
           "info": "HD (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Sick-2022-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/e7390346d4b4e5249b881109/e7390346d4b4e5249b881109438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Sick (2022)",
+          "name": "Sick",
           "info": "สำรอง (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Sick-2022-300x450.jpg",
           "url": "https://hot.freecdnn.com/m3u8/88a662790a60fffc9c846166/88a662790a60fffc9c846166800.m3u8",
