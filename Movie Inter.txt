@@ -6,190 +6,211 @@
   "url": "https://raw.githubusercontent.com/Terminal-48/Share/main/Movie Inter.txt",
   "groups": [
     {
-      "name": "เดอะ มาร์เวลส์ (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
+      "name": "Champions (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Champions-2023-300x450.jpg",
       "info": "",
       "stations": [
         {
-          "name": "เดอะ มาร์เวลส์",
+          "name": "Champions",
           "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/6b2577e7eafaf8b9df514272/6b2577e7eafaf8b9df514272438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Champions-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/eb1c917ba71596e6d3c280fc/eb1c917ba71596e6d3c280fc438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "เดอะ มาร์เวลส์",
+          "name": "Champions",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/eb6e4c162b82758611de2430/eb6e4c162b82758611de2430800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Champions-2023-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/28560b63c879672d9f5557e9/28560b63c879672d9f5557e9800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "อาร์ไกล์ ยอดสายลับ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Argylle-2024-อาร์ไกล์-ยอดสายลับ-1-300x450.jpg",
+      "name": "เหงา เท่า วาฬ (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Whale-2022-เหงา-เท่า-วาฬ-300x450.png",
       "info": "",
       "stations": [
         {
-          "name": "อาร์ไกล์ ยอดสายลับ",
+          "name": "เหงา เท่า วาฬ",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Whale-2022-เหงา-เท่า-วาฬ-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/4a57184e2e6785e24efcda4a/4a57184e2e6785e24efcda4a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เหงา เท่า วาฬ",
+          "info": "สำรอง (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Whale-2022-เหงา-เท่า-วาฬ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/ed88f9545223b76abc017769/ed88f9545223b76abc017769800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "มาดามเว็บ (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-1-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "มาดามเว็บ",
           "info": "ZOOM (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Argylle-2024-อาร์ไกล์-ยอดสายลับ-1-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/858bc3412e702504cbcc1743/858bc3412e702504cbcc1743438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/8424aa342eb787142d1af6ad/8424aa342eb787142d1af6ad438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "อาร์ไกล์ ยอดสายลับ",
+          "name": "มาดามเว็บ",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Argylle-2024-อาร์ไกล์-ยอดสายลับ-1-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/197591965e702142940a5379/197591965e702142940a5379800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/6671cd7b3deeb9afb7f91e2f/6671cd7b3deeb9afb7f91e2f800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "เจ้าสังเวียน (2016)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-No-Surrender-2016-เจ้าสังเวียน-300x450.jpg",
+      "name": "เลิกเล่นมาเริ่มรัก (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Players-2024-เลิกเล่นมาเริ่มรัก-300x450.jpg",
       "info": "",
       "stations": [
         {
-          "name": "เจ้าสังเวียน",
+          "name": "เลิกเล่นมาเริ่มรัก",
           "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-No-Surrender-2016-เจ้าสังเวียน-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/9da787a500fc5b358f2ae3a7/9da787a500fc5b358f2ae3a7438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Players-2024-เลิกเล่นมาเริ่มรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/580c44a3dae37eab1ab73bb6/580c44a3dae37eab1ab73bb6438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "เจ้าสังเวียน",
+          "name": "เลิกเล่นมาเริ่มรัก",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-No-Surrender-2016-เจ้าสังเวียน-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/f76ea199dab66526b4534f48/f76ea199dab66526b4534f48800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Players-2024-เลิกเล่นมาเริ่มรัก-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/89917a866f7795df22218276/89917a866f7795df22218276800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "เนฟเวอร์ แบ็ค ดาวน์ สู้โค่นสังเวียน (2011)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-2-The-Beatdown-2011-เนฟเวอร์-แบ็ค-ดาวน์-สู้โค่นสังเวียน-300x450.jpg",
+      "name": "คลินิกบำบัดไข้ใจ (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Heartbreak-Agency-2024-คลินิกบำบัดไข้ใจ-300x450.jpg",
       "info": "",
       "stations": [
         {
-          "name": "เนฟเวอร์ แบ็ค ดาวน์ สู้โค่นสังเวียน",
+          "name": "คลินิกบำบัดไข้ใจ",
           "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-2-The-Beatdown-2011-เนฟเวอร์-แบ็ค-ดาวน์-สู้โค่นสังเวียน-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/6879188fba2652f7affc8df8/6879188fba2652f7affc8df8438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Heartbreak-Agency-2024-คลินิกบำบัดไข้ใจ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/2913fc62a25ac43e2eae1bcd/2913fc62a25ac43e2eae1bcd438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "เนฟเวอร์ แบ็ค ดาวน์ สู้โค่นสังเวียน",
+          "name": "คลินิกบำบัดไข้ใจ",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-2-The-Beatdown-2011-เนฟเวอร์-แบ็ค-ดาวน์-สู้โค่นสังเวียน-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/83a5c25f4ce46e47435f656d/83a5c25f4ce46e47435f656d800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Heartbreak-Agency-2024-คลินิกบำบัดไข้ใจ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/838fe1aa1b88305596cbff9e/838fe1aa1b88305596cbff9e800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "กระชากใจสู้แล้วคว้าใจเธอ (2008)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-2008-กระชากใจสู้แล้วคว้าใจเธอ-300x450.jpg",
+      "name": "ฟาสต์เจ็บ เร็ว...แรงทะลุฮา (2015)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Superfast-2015-ฟาสต์เจ็บ-เร็ว...แรงทะลุฮา-300x450.jpg",
       "info": "",
       "stations": [
         {
-          "name": "กระชากใจสู้แล้วคว้าใจเธอ",
+          "name": "ฟาสต์เจ็บ เร็ว...แรงทะลุฮา",
           "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-2008-กระชากใจสู้แล้วคว้าใจเธอ-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/0c5c233584a10fe54a38d9ab/0c5c233584a10fe54a38d9ab438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Superfast-2015-ฟาสต์เจ็บ-เร็ว...แรงทะลุฮา-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/27a6dd38a6063608f279e348/27a6dd38a6063608f279e348.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "กระชากใจสู้แล้วคว้าใจเธอ",
+          "name": "ฟาสต์เจ็บ เร็ว...แรงทะลุฮา",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Never-Back-Down-2008-กระชากใจสู้แล้วคว้าใจเธอ-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/d0b49d8396b329393dc12f5c/d0b49d8396b329393dc12f5c800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Superfast-2015-ฟาสต์เจ็บ-เร็ว...แรงทะลุฮา-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/656d5a86a420a009cd40b20f/656d5a86a420a009cd40b20f800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "Frankenfish (2004)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Frankenfish-2004-300x450.jpg",
+      "name": "ตำนานนักหวดสะท้านโลก (2013)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/42-2013-ตำนานนักหวดสะท้านโลก-300x450.jpg",
       "info": "",
       "stations": [
         {
-          "name": "Frankenfish",
+          "name": "ตำนานนักหวดสะท้านโลก",
           "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Frankenfish-2004-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/5a7d0bff4acecce92ffaccbd/5a7d0bff4acecce92ffaccbd438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/42-2013-ตำนานนักหวดสะท้านโลก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/bd5947942f8ccfb8f1f95fd7/bd5947942f8ccfb8f1f95fd7438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Frankenfish",
+          "name": "ตำนานนักหวดสะท้านโลก",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Frankenfish-2004-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/c0b2b405be145a74184f3535/c0b2b405be145a74184f3535800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/42-2013-ตำนานนักหวดสะท้านโลก-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/d80f3eef1019c3d6514ddfa4/d80f3eef1019c3d6514ddfa4800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "Sick (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Sick-2022-300x450.jpg",
+      "name": "ถ้ากล้า ก็ฆ่าเลย (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare-2024-ถ้ากล้า-ก็ฆ่าเลย-300x450.jpg",
       "info": "",
       "stations": [
         {
-          "name": "Sick",
+          "name": "ถ้ากล้า ก็ฆ่าเลย",
           "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Sick-2022-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/e7390346d4b4e5249b881109/e7390346d4b4e5249b881109438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare-2024-ถ้ากล้า-ก็ฆ่าเลย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fc3582d33fd4a013785d7f0f/fc3582d33fd4a013785d7f0f438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Sick",
+          "name": "ถ้ากล้า ก็ฆ่าเลย",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Sick-2022-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/88a662790a60fffc9c846166/88a662790a60fffc9c846166800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare-2024-ถ้ากล้า-ก็ฆ่าเลย-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f2103d0e3b741218af809f44/f2103d0e3b741218af809f44800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "เดอะ คาราเต้ คิด (2010)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Karate-Kid-2010-เดอะ-คาราเต้-คิด-300x450.png",
+      "name": "เดดพูล (2016)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
       "info": "",
       "stations": [
         {
-          "name": "เดอะ คาราเต้ คิด",
+          "name": "เดดพูล",
           "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Karate-Kid-2010-เดอะ-คาราเต้-คิด-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/6301653419e4de206fc764c13971798f/6301653419e4de206fc764c13971798f.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "เดอะ คาราเต้ คิด",
+          "name": "เดดพูล",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Karate-Kid-2010-เดอะ-คาราเต้-คิด-300x450.png",
-          "url": "https://hot.freecdnn.com/ioshls/6301653419e4de206fc764c13971798f/6301653419e4de206fc764c13971798f.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/63ab0cbdedda5cd8c5f389e9/63ab0cbdedda5cd8c5f389e9800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
     },
     {
-      "name": "แดนหลอนสยองใต้โลก (2014)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-300x450.jpg",
+      "name": "เดดพูล 2 (2018)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
       "info": "",
       "stations": [
         {
-          "name": "แดนหลอนสยองใต้โลก",
+          "name": "เดดพูล 2",
           "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/bdce1c398ead1a9ba9feb23d/bdce1c398ead1a9ba9feb23d438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "แดนหลอนสยองใต้โลก",
+          "name": "เดดพูล 2",
           "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-300x450.jpg",
-          "url": "https://hot.freecdnn.com/m3u8/6a00763196a6387c96e54bea/6a00763196a6387c96e54bea800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/8cb10e1c50880352a26351ab/8cb10e1c50880352a26351ab800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
