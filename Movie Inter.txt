@@ -6,6 +6,90 @@
   "url": "https://raw.githubusercontent.com/Terminal-48/Share/main/Movie Inter.txt",
   "groups": [
     {
+      "name": "พยัคฆ์สาวรอยสักมังกร (2011)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-with-the-Dragon-Tattoo-2011-พยัคฆ์สาวรอยสักมังกร-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "พยัคฆ์สาวรอยสักมังกร",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-with-the-Dragon-Tattoo-2011-พยัคฆ์สาวรอยสักมังกร-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7c2a2a85f0dad0f0ef40a598/7c2a2a85f0dad0f0ef40a598438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "พยัคฆ์สาวรอยสักมังกร",
+          "info": "สำรอง (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-with-the-Dragon-Tattoo-2011-พยัคฆ์สาวรอยสักมังกร-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/588d6c2c256eaab72a1e5472/588d6c2c256eaab72a1e5472800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "ขบถสาวโค่นทรชน ปิดบัญชีคลั่ง (2009)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-Who-Kicked-the-Hornets-Nest-2009-ขบถสาวโค่นทรชน-ปิดบัญชีคลั่ง-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ขบถสาวโค่นทรชน ปิดบัญชีคลั่ง",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-Who-Kicked-the-Hornets-Nest-2009-ขบถสาวโค่นทรชน-ปิดบัญชีคลั่ง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d1913239cd788754857d8b01/d1913239cd788754857d8b01438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ขบถสาวโค่นทรชน ปิดบัญชีคลั่ง",
+          "info": "สำรอง (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-Who-Kicked-the-Hornets-Nest-2009-ขบถสาวโค่นทรชน-ปิดบัญชีคลั่ง-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/ecc9e45f70b8126e414d2568/ecc9e45f70b8126e414d2568800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "ขบถสาวโค่นทรชน (2009)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-Who-Played-with-Fire-2009-ขบถสาวโค่นทรชน-โหมไฟสังหาร-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ขบถสาวโค่นทรชน",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-Who-Played-with-Fire-2009-ขบถสาวโค่นทรชน-โหมไฟสังหาร-300x450.jpg",
+          "url": "https://www.123-hd.com/the-girl-who-played-with-firenewplaylist/97c6e350a752c5ea6a462ccb/97c6e350a752c5ea6a462ccb.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ขบถสาวโค่นทรชน",
+          "info": "สำรอง (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-Who-Played-with-Fire-2009-ขบถสาวโค่นทรชน-โหมไฟสังหาร-300x450.jpg",
+          "url": "https://www.123-hd.com/api/fileprocess.html",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "พยัคฆ์สาวรอยสักมังกร (2009)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-With-The-Dragon-Tattoo-2009-พยัคฆ์สาวรอยสักมังกร-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "พยัคฆ์สาวรอยสักมังกร",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-With-The-Dragon-Tattoo-2009-พยัคฆ์สาวรอยสักมังกร-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/42ac21723d27561774fb0e32/42ac21723d27561774fb0e32438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "พยัคฆ์สาวรอยสักมังกร",
+          "info": "สำรอง (พากย์ไทย)",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Girl-With-The-Dragon-Tattoo-2009-พยัคฆ์สาวรอยสักมังกร-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/b330102406f6c9e5c54c3c15/b330102406f6c9e5c54c3c15800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Champions (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Champions-2023-300x450.jpg",
       "info": "",
@@ -148,69 +232,6 @@
           "info": "สำรอง (พากย์ไทย)",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/42-2013-ตำนานนักหวดสะท้านโลก-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/d80f3eef1019c3d6514ddfa4/d80f3eef1019c3d6514ddfa4800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "ถ้ากล้า ก็ฆ่าเลย (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare-2024-ถ้ากล้า-ก็ฆ่าเลย-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ถ้ากล้า ก็ฆ่าเลย",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare-2024-ถ้ากล้า-ก็ฆ่าเลย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/fc3582d33fd4a013785d7f0f/fc3582d33fd4a013785d7f0f438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ถ้ากล้า ก็ฆ่าเลย",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare-2024-ถ้ากล้า-ก็ฆ่าเลย-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/f2103d0e3b741218af809f44/f2103d0e3b741218af809f44800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "เดดพูล (2016)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดดพูล",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เดดพูล",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/63ab0cbdedda5cd8c5f389e9/63ab0cbdedda5cd8c5f389e9800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "เดดพูล 2 (2018)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดดพูล 2",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เดดพูล 2",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/8cb10e1c50880352a26351ab/8cb10e1c50880352a26351ab800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
