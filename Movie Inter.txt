@@ -127,13 +127,6 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Through-My-Window-Across-the-Sea-2023-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/fe1b47441f8ecf4c83b790f5/fe1b47441f8ecf4c83b790f5438.m3u8",
           "referer": ""
-        },
-        {
-          "name": "รักผ่านหน้าต่าง หัวใจข้ามทะเล",
-          "info": "สำรอง (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Through-My-Window-Across-the-Sea-2023-300x450.jpg",
-          "url": "https://www.123-hd.com/api/fileprocess.html",
-          "referer": ""
         }
       ]
     },
