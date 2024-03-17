@@ -1,0 +1,57 @@
+{
+    "name": "Movie",
+    "author": "",
+    "url": "https://raw.githubusercontent.com/Terminal-48/123HD/main/Movie.w3u",
+    "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+  "groups": [
+{
+"name": "หนังใหม่ 2024",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Terminal-48/123HD/main/หนังใหม่ 2024.w3u""
+},
+{
+"name": "Series Nung2hdd 2024",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Terminal-48/Series-nung2hdd/main/Series-2024.w3u"
+},
+{
+"name": "Movie Nung2hdd 2024",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-2024.w3u"
+},
+{
+"name": "Series Nung2hdd 2023",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Terminal-48/Series-nung2hdd/main/Series-2023.w3u"
+},
+{
+"name": "Movie Nung2hdd 2023",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-2023.w3u"
+},
+{
+"name": "หนัง  ปี 2024",
+"image":"https://movie2uhd.com/wp-content/uploads/2022/09/Movie2uhd-logo.webp",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/movie-2024.w3u"
+},
+{
+"name": "หนัง  ปี 2023",
+"image":"https://movie2uhd.com/wp-content/uploads/2022/09/Movie2uhd-logo.webp",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/movie-2023.w3u"
+},
+{
+"name": "หนังจีน",
+"image":"https://movie2uhd.com/wp-content/uploads/2022/09/Movie2uhd-logo.webp",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/chinese-movie.w3u"
+},
+{
+"name": "หนังเกาหลี",
+"image":"https://movie2uhd.com/wp-content/uploads/2022/09/Movie2uhd-logo.webp",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/korean-movie.w3u"
+}
+
+
+
+
+]
+}
