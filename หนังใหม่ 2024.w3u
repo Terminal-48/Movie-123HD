@@ -4,90 +4,104 @@
   "info": "",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2024.w3u",
-  "groups": [
+  "stations": [
     {
       "name": "I, the Executioner (2024) คู่เดือดนรกต้องกราบ",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/I-the-Executioner-2024-คู่เดือดนรกต้องกราบ-300x450.png",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/5db679ae9b953a6a57e5489b/5db679ae9b953a6a57e5489b438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "ช.พ.๑ สมรภูมิคืนชีพ Operation Undead (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/ช.พ.๑-สมรภูมิคืนชีพ-Operation-Undead-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/fb1d8c9ac47d9f2e95dcee40/fb1d8c9ac47d9f2e95dcee40438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "Biggest Heist Ever ปล้นมโหฬาร (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Biggest-Heist-Ever-ปล้นมโหฬาร-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/b5909b45c57b9dabc66098a1/b5909b45c57b9dabc66098a1438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/dd1f631ed19cb8fc5977f351/dd1f631ed19cb8fc5977f351438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "Camp Crasher คุณแม่ป่วนค่าย (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Camp-Crasher-คุณแม่ป่วนค่าย-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/6696b7818b5ff7507ef7ccdb/6696b7818b5ff7507ef7ccdb438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "Mary มารีย์ (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Mary-มารีย์-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/51185fa855511aef86438788/51185fa855511aef86438788438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "A Normal Family ลูกฉัน... เป็นคนดี (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/A-Normal-Family-ลูกฉัน.-เป็นคนดี-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/4856ca92ceeab341aed62865/4856ca92ceeab341aed62865438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "Striking Rescue คนเดือด​ ซัดนรก (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Striking-Rescue-คนเดือด​-ซัดนรก-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/39c4722ac51bf2184f5dd67f/39c4722ac51bf2184f5dd67f438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "Moana 2 โมอาน่า 2 (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Moana-2-โมอาน่า-2-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://www.123-hd.com/api/fileprocess.html",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "The Snow Sister เดอะ สโนว์ ซิสเตอร์ (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/The-Snow-Sister-เดอะ-สโนว์-ซิสเตอร์-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/ee271222a002d8a032172288/ee271222a002d8a032172288438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "High Forces ยึดเสียดฟ้า (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/High-Forces-ยึดเสียดฟ้า-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://www.123-hd.com/api/fileprocess.html",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/d5889decbd786d4f2bca1d70/d5889decbd786d4f2bca1d70438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "Mononoke the Movie The Phantom in the Rain โมโนโนเกะ เดอะ มูฟวี่ ปีศาจในสายฝน (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Mononoke-the-Movie-The-Phantom-in-the-Rain-โมโนโนเกะ-เดอะ-มูฟวี่-ปีศาจในสายฝน-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/849dc714e660afe2e4d0fca1/849dc714e660afe2e4d0fca1438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "The Merry Gentlemen เดอะ เมอร์รี่ เจนเทิลแมน (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Merry-Gentlemen-เดอะ-เมอร์รี่-เจนเทิลแมน-2024-300x450.jpg",
-      "info": "",
-      "stations": []
+      "url": "https://main.24playerhd.com/m3u8/1b7d7f4af52f6c5e4cb7d635/1b7d7f4af52f6c5e4cb7d635438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     }
   ]
 }
