@@ -2,7 +2,7 @@
   "name": "หนังอินเดีย",
   "author": "อัพเดท 10/12/2024",
   "info": "",
-  "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+  "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังอินเดีย.w3u",
   "stations": [
     {
@@ -135,6 +135,48 @@
       "name": "BAAGHI 2 (2018) บากิ ยอดคนสุดระห่ำ 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/04/BAAGHI-2-2018-บากิ-ยอดคนสุดระห่ำ-2-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/2ad683cca00944610b5aef0a/2ad683cca00944610b5aef0a168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Yeh Saali Aashiqui (2019) ฝันรัก ฝันร้าย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Yeh-Saali-Aashiqui-2019-ฝันรัก-ฝันร้าย-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/1d097281f2f433aa79de7327/1d097281f2f433aa79de7327168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Laxmmi Bomb (2020) ผีเฮี้ยนวิญญาณเพี้ยน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Laxmmi-Bomb-2020-ผีเฮี้ยนวิญญาณเพี้ยน-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/22de2cad50b7a5d2d3b82980/22de2cad50b7a5d2d3b82980168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Elephant Whisperers (2022) คนกล่อมช้าง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Elephant-Whisperers-2022-คนกล่อมช้าง-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/59f63bcc31e52bc7021310a5/59f63bcc31e52bc7021310a5438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Jodhaa Akbar (2008) อัศวินราชา บุปผาสวรรค์รานี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Jodhaa-Akbar-2008-อัศวินราชา-บุปผาสวรรค์รานี-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/4fbde0ca7dc08eaa175a6cb2/4fbde0ca7dc08eaa175a6cb2438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Darlings (2022) ที่รัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/9d4c984963401ddfa0a06e95/9d4c984963401ddfa0a06e95438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Wedding Season (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Wedding-Season-2022-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/c2098dc67d8cee16a6565e34/c2098dc67d8cee16a6565e34438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
