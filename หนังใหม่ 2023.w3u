@@ -2,7 +2,7 @@
   "name": "หนังใหม่ 2023",
   "author": "อัพเดท 10/12/2024",
   "info": "",
-  "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+  "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2023.w3u",
   "stations": [
     {
@@ -268,6 +268,160 @@
       "name": "The Djinn's Curse (2023) ของแขก",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Djinns-Curse-2023-ของแขก-1-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/aa213aac71f17212cff5859b/aa213aac71f17212cff5859b438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Not Friends (2023) เพื่อน(ไม่)สนิท",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Not-Friends-2023-เพื่อนไม่สนิท-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/01344b5a65162f096d1b6acd/01344b5a65162f096d1b6acd438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Death Is All Around (2023) อยากตาย อย่าตาย มรณาคาเฟ่",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Death-Is-All-Around-2023-อยากตาย-อย่าตาย-มรณาคาเฟ่-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/c8b41b7b7e4effd0a44071ce/c8b41b7b7e4effd0a44071ce438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "ManSuang (2023) แมนสรวง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/ManSuang-2023-แมนสรวง-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Darkdog Lockdown (2023) คุณตูบสายดาร์ก ปิดเมืองกัด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Darkdog-Lockdown-2023-คุณตูบสายดาร์ก-ปิดเมืองกัด-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/f39283f060e083be4d6db9b8/f39283f060e083be4d6db9b8438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Through My Window Across the Sea (2023) รักผ่านหน้าต่าง หัวใจข้ามทะเล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Through-My-Window-Across-the-Sea-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/fe1b47441f8ecf4c83b790f5/fe1b47441f8ecf4c83b790f5438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/b5ddea6f131bc716037fdf35/b5ddea6f131bc716037fdf35438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Love in an Old Album (2023) ปราณี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Love-in-an-Old-Album-2023-ปราณี-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/22d6cbe9dca9d184cc944488/22d6cbe9dca9d184cc944488438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Champions (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Champions-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/16090db441ec893521d10b71/16090db441ec893521d10b71438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Bridge Curse Ritual (2023) โรงเรียนผีเฮี้ยน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023-โรงเรียนผีเฮี้ยน-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/2dd9283986e78410933ad885/2dd9283986e78410933ad885438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "BlackBerry (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/BlackBerry-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/8fbc5e24015e9802d38f7657/8fbc5e24015e9802d38f7657438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Ride On (2023) ควบสู้ฟัด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Ride-On-2023-ควบสู้ฟัด-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/4befafc9ac161affa0dd2bc2/4befafc9ac161affa0dd2bc2438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2-2023-ผู้พิทักษ์หมัดเทวดา-2-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/40ec4ac890d9782ed5571050/40ec4ac890d9782ed5571050438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Undertaker (2023) สัปเหร่อ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/fa0618ad16c8e18530e3646d/fa0618ad16c8e18530e3646d438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "14 Again I Love You Two Thousand (2023) 14 อีกครั้ง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/14-Again-I-Love-You-Two-Thousand-2023-14-อีกครั้ง-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/8ac6265b78cd9d572eb514f6/8ac6265b78cd9d572eb514f6438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Bad Social (2023) เกม / ล่า / ตาย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Bad-Social-2023-เกม-ล่า-ตาย-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/951b4a1923cb7646e1051d7e/951b4a1923cb7646e1051d7e438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Marvels (2023) เดอะ มาร์เวลส์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/6b2577e7eafaf8b9df514272/6b2577e7eafaf8b9df514272438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Roundup No Way Out (2023) บู๊ระห่ำล่าล้างนรก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/14f851ced055973ad561ab9d/14f851ced055973ad561ab9d438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Trolls Band Together (2023) โทรลล์ส 3",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-3-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/6822c64a7133659df524509b/6822c64a7133659df524509b438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Red Life (2023) เรดไลฟ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Red-Life-2023-เรดไลฟ์-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/931536ec05b46e22a8d8ba03/931536ec05b46e22a8d8ba03438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/ce206618ccfc1111da9e993d/ce206618ccfc1111da9e993d438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Legend Of Detective Dee (2023) ตี๋เหรินเจี๋ย คลองมังกรผวา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Legend-Of-Detective-Dee-2023-ตี๋เหรินเจี๋ย-คลองมังกรผวา-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/4cf15b092adca9a212865690/4cf15b092adca9a212865690438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Haunting of the Queen Mary (2023) เรือผีปีศาจ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Haunting-of-the-Queen-Mary-2023-เรือผีปีศาจ-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/fd9c065b1a5caa496d22ee76/fd9c065b1a5caa496d22ee76438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
