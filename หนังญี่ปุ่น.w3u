@@ -2,7 +2,7 @@
   "name": "หนังญี่ปุ่น",
   "author": "อัพเดท 10/12/2024",
   "info": "",
-  "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+  "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังญี่ปุ่น.w3u",
   "stations": [
     {
@@ -505,7 +505,7 @@
     {
       "name": "My Teacher (2017) หัวใจฉัน แอบรักเซนเซย์",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/06/My-Teacher-2017-หัวใจฉัน-แอบรักเซนเซย์-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/e182d93cee82219ea74aa7e5d01f00c2/e182d93cee82219ea74aa7e5d01f00c2.m3u8",
+      "url": "https://hot.24playerhd.com/newplaylist/20a3b1e562e4e425506599c496da378f/20a3b1e562e4e425506599c496da378f.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -583,6 +583,328 @@
       "name": "What Did You Eat Yesterday (2021) เมื่อวานคุณทานอะไร",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/03/What-Did-You-Eat-Yesterday-2021-เมื่อวานคุณทานอะไร-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/72368de77228aa43c2915370/72368de77228aa43c2915370168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Kingdom The Movie Kingudamu (2019) คิงดอม เดอะ มูฟวี่",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Kingdom-The-Movie-Kingudamu-2019-คิงดอม-เดอะ-มูฟวี่-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/21b52aff7a2d9cf3a14cd324/21b52aff7a2d9cf3a14cd324168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Cube (2021) กล่องเกมมรณะ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Cube-2021-กล่องเกมมรณะ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/c03da1550237d940e6ca2fcd/c03da1550237d940e6ca2fcd168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Call Me Chihiro (2023) ฉันชื่อจิฮิโระ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Call-Me-Chihiro-2023-ฉันชื่อจิฮิโระ-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/f1751121b83e15d2ada233c1/f1751121b83e15d2ada233c1168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Over Drive (2018) ทีมซิ่งผ่าฟ้า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Over-Drive-2018-ทีมซิ่งผ่าฟ้า-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/6cc6fcec589fb17e64301755/6cc6fcec589fb17e64301755168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "RE/MEMBER (2023) ตามล่า ศพสยอง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/REMEMBER-2023-ตามล่า-ศพสยอง-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/d73ad6bf8bc86d4a8660c003/d73ad6bf8bc86d4a8660c003168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "All About Lily Chou-Chou (2001) ลิลี่ ชูชู แด่เธอตลอดไป",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/All-About-Lily-Chou-Chou-2001-ลิลี่-ชูชู-แด่เธอตลอดไป-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/03ee9fe52c6a5b5bd59e4d14/03ee9fe52c6a5b5bd59e4d14168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Its a Summer Film (2021) เกือบจะไม่ได้ฉายแล้วหน้าร้อนนี้",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/05/Its-a-Summer-Film-2021-เกือบจะไม่ได้ฉายแล้วหน้าร้อนนี้-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/597deb030f2a3cb8233a81aa/597deb030f2a3cb8233a81aa168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Let's Go Jets (2017) เชียร์เกิร์ล เชียร์เธอ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Lets-Go-Jets-2017-เชียร์เกิร์ล-เชียร์เธอ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/47782d9f837663f28da7e2d0/47782d9f837663f28da7e2d0168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Tokyo Tower Mom Me and sometimes Dad (2007) รักยิ่งใหญ่ หัวใจให้เธอ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Tokyo-Tower-Mom-Me-and-sometimes-Dad-2007-รักยิ่งใหญ่-หัวใจให้เธอ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/55480c4bb19cc77959db6798/55480c4bb19cc77959db6798168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Crying Out Love in the Center of the World (2004) พร่ำหัวใจเพรียกหารักที่กลางโลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Crying-Out-Love-in-the-Center-of-the-World-2004-พร่ำหัวใจเพรียกหารักที่กลางโลก-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/cf6c3f04dbcde00fa08429fb/cf6c3f04dbcde00fa08429fb168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Black Butler (2014) พ่อบ้านปีศาจ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Black-Butler-2014-พ่อบ้านปีศาจ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/421bf2b83503b268cd9fd113/421bf2b83503b268cd9fd113168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Crows Zero (2007) เรียกเขาว่าอีกา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Crows-Zero-2007-เรียกเขาว่าอีกา-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/30c6b87b2f431b0471c96f90/30c6b87b2f431b0471c96f90168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Crows Zero 2 (2009) เรียกเขาว่าอีกา 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Crows-Zero-2-2009-เรียกเขาว่าอีกา-2-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/bf443a08c1785b1ac4006521/bf443a08c1785b1ac4006521168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Shinobi Heart Under Blade (2005) นินจาดวงตาสยบมาร",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Shinobi-Heart-Under-Blade-2005-นินจาดวงตาสยบมาร-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/d5258795fe108700f6d90822/d5258795fe108700f6d90822438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "I give my first love to you (2009) เพราะหัวใจบอกรักได้ครั้งเดียว",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/I-give-my-first-love-to-you-2009-เพราะหัวใจบอกรักได้ครั้งเดียว-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/f0e1886afb4d8d7e93b37f29/f0e1886afb4d8d7e93b37f29438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Yamato (2005) ยามาโต้ พิฆาตยุทธการ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Yamato-2005-ยามาโต้-พิฆาตยุทธการ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/9aba5b4636177bcf21766cfb/9aba5b4636177bcf21766cfb438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Night Beyond the Tricornered Window (2021) คู่หูสามเหลี่ยมล่าปีศาจ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-Night-Beyond-the-Tricornered-Window-2021-คู่หูสามเหลี่ยมล่าปีศาจ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/994a4e37118d365428555fd5/994a4e37118d365428555fd5438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Slam Dunk The Movie 4 (1995)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Slam-Dunk-The-Movie-4-1995-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/91b7a1e85a008faf66a2c6f2/91b7a1e85a008faf66a2c6f2168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Slam Dunk The Movie 3 (1995)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Slam-Dunk-The-Movie-3-1995-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/9e235181aadbda2f16e71264/9e235181aadbda2f16e71264168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Slam Dunk The Movie 2 (1994)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Slam-Dunk-The-Movie-2-1994-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/d0ed7271dfb27782e9baff55/d0ed7271dfb27782e9baff55168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Cornered Mouse Dreams of Cheese (2020) ให้รักฉันอยู่ในมุมหัวใจเธอ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Cornered-Mouse-Dreams-of-Cheese-2020-ให้รักฉันอยู่ในมุมหัวใจเธอ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/0e273ac4024f70217c9704eb/0e273ac4024f70217c9704eb168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Full Metal Alchemist The Final Alchemy (2022) แขนกลคนแปรธาตุ ปัจฉิมบท",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Full-Metal-Alchemist-The-Final-Alchemy-2022-แขนกลคนแปรธาตุ-ปัจฉิมบท-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/071c85d121fc7a36b831eec2/071c85d121fc7a36b831eec2168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Fullmetal Alchemist TheRevenge Of Scar (2022) แขนกลคนแปรธาตุ สการ์ชำระแค้น",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Fullmetal-Alchemist-TheRevenge-Of-Scar-2022-แขนกลคนแปรธาตุ-สการ์ชำระแค้น-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/72f5ed658099ba1411964f9a575a69dd/72f5ed658099ba1411964f9a575a69dd.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Josee the Tiger and the Fish (2020) โจเซ่ กับเสือและหมู่ปลา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Josee-the-Tiger-and-the-Fish-2020-โจเซ่-กับเสือและหมู่ปลา-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/a191700e62ce7418fc47fcff/a191700e62ce7418fc47fcff168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Drifting Home (2022) บ้านล่องลอย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Drifting-Home-2022-บ้านล่องลอย-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/024eb49b3a56e136630ce8e8/024eb49b3a56e136630ce8e8168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Shoplifters (2018) ครอบครัวที่ลัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Shoplifters-2018-ครอบครัวที่ลัก-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/61c807f514ca42aae9ade42e52555a99/61c807f514ca42aae9ade42e52555a99.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Her Love Boils Bathwater (2016) 60 วัน เราจะมีกันตลอดไป",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Her-Love-Boils-Bathwater-2016-60-วัน-เราจะมีกันตลอดไป-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/328548b8c089dccd138d18fce06b0a17/328548b8c089dccd138d18fce06b0a17.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "After the Rain (2018) หลังฝนตกคุณคิดถึงใคร",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/After-the-Rain-2018-หลังฝนตกคุณคิดถึงใคร-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/ab7ba718dcda014935e4316a9f7b95fd/ab7ba718dcda014935e4316a9f7b95fd.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Seven Samurai (1954) เจ็ดเซียนซามูไร",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Seven-Samurai-1954-เจ็ดเซียนซามูไร-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/2b87ac5e173c3380144cd580620405a2/2b87ac5e173c3380144cd580620405a2.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Kids on the Slope (2018) เพลงแรก รักแรก จูบแรก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Kids-on-the-Slope-2018-เพลงแรก-รักแรก-จูบแรก-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/0493f1816f3e67da59faa7d6/0493f1816f3e67da59faa7d6438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Infernal Walker (2020) เดอะ อินเฟอร์เนล วอร์คเกอร์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The-Infernal-Walker-2020-เดอะ-อินเฟอร์เนล-วอร์คเกอร์-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/92d3ba81af14e542090fe32e646a8517/92d3ba81af14e542090fe32e646a8517.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Fleet of Time (2014) คำตอบของใจ...คือใช่เธอ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/05/Fleet-of-Time-2014-คำตอบของใจ...คือใช่เธอ-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/06ab95e5d6889c39450c631b66c3bfe7/06ab95e5d6889c39450c631b66c3bfe7.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Peach Girl (2017) เธอสุดแสบ ที่แอบรัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/05/Peach-Girl-2017-เธอสุดแสบ-ที่แอบรัก-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/9b857b81b5af1a49b7012ccff630ba3c/9b857b81b5af1a49b7012ccff630ba3c.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Stigmatized Properties (2020) ไลฟ์ติดผี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Stigmatized-Properties-2020-ไลฟ์ติดผี-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/6f7624e203cbb100f6365201/6f7624e203cbb100f6365201168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Suicide Forest Village (2021) ป่าผีดุ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Suicide-Forest-Village-2021-ป่าผีดุ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/acde6bf77cca8085e1eb3761/acde6bf77cca8085e1eb3761168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "True Mothers (2020)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/True-Mothers-2020-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/4962a0ce31252b7ee2b8d1a5fe0aa505/4962a0ce31252b7ee2b8d1a5fe0aa505.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Love Like the Falling Petals (2022) ใบไม้ผลิที่ไม่มีเธอเป็นซากุระ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Love-Like-the-Falling-Petals-2022-ใบไม้ผลิที่ไม่มีเธอเป็นซากุระ-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/0998c101c42b6a4f5a242dc53658f12a/0998c101c42b6a4f5a242dc53658f12a.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Moonlight Shadow (2021) ปาฏิหาริย์รักใต้เงาจันทร์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Moonlight-Shadow-2021-ปาฏิหาริย์รักใต้เงาจันทร์-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/9f4eb5c061bee6f9ae41be3baad04ff3/9f4eb5c061bee6f9ae41be3baad04ff3.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Pirates The Last Royal Treasure (2022) ศึกโจรสลัดชิงสมบัติราชวงศ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/The-Pirates-The-Last-Royal-Treasure-2022-ศึกโจรสลัดชิงสมบัติราชวงศ์-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/eb69bab5e0b59c107700aaadc0a9146a/eb69bab5e0b59c107700aaadc0a9146a.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "First Love (2021) รักแรก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/First-Love-2021-รักแรก-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/9460321743157df172392bc4/9460321743157df172392bc4438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Ju-on (2001) ผี...ดุ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Ju-on-2001-ผี...ดุ-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/060dd538070ca5471531f9866eef8d08/060dd538070ca5471531f9866eef8d08.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Ju-On 4 The Final Curse (2015) จูออน 4 ปิดตำนานโคตรดุ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Ju-On-4-The-Final-Curse-2015-จูออน-4-ปิดตำนานโคตรดุ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/25c015bac24633f33b725fab/25c015bac24633f33b725fab438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Ju-On Beginning of the End (2014) จูออน ผีดุ กำเนิดมรณะ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Ju-On-Beginning-of-the-End-2014-จูออน-ผีดุ-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/9ebd1cea1eea2e99d901b047697c076e/9ebd1cea1eea2e99d901b047697c076e.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Ju-On 3 (2003) ผี...ดุ 3",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Ju-On-3-2003-ผี...ดุ-3-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/46e70994cf1144cfd7d3000270460480/46e70994cf1144cfd7d3000270460480.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Ju-on 2 (2003) ผี...ดุ 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Ju-on-2-2003-ผี...ดุ-2-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/97dbacdf14d6ebd55a89b9ca2fe7b093/97dbacdf14d6ebd55a89b9ca2fe7b093.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Child of kamiari month (2021) เด็ก เดือน ตุลา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Child-of-kamiari-month-2021-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/cc477fdbdbae670df97a298cb8737554/cc477fdbdbae670df97a298cb8737554.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
