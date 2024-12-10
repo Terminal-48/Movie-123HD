@@ -1,261 +1,142 @@
 {
   "name": "หนังอินเดีย",
-  "author": "จากเวป 123-hd",
+  "author": "อัพเดท 10/12/2024",
   "info": "",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-  "url": "https://raw.githubusercontent.com/Terminal-48/123HD/main/หนังอินเดีย.w3u",
-  "groups": [
+  "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังอินเดีย.w3u",
+  "stations": [
     {
-      "name": "ชาร์ลี มะหมาท้าโลกให้รัก (2022)",
+      "name": "Happy Hardy And Heer จะรักยังไง หัวใจดวงเดียว (2020)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Happy-Hardy-And-Heer-จะรักยังไง-หัวใจดวงเดียว-2020-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/79d85a458c583db955557ece/79d85a458c583db955557ece438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Do Patti (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Do-Patti-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/a0ba24e2470f6dfe0fdcb489/a0ba24e2470f6dfe0fdcb489438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "CTRL (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/CTRL-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/1c4949eff7d793a944099d1e/1c4949eff7d793a944099d1e438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Salaam Venky สวัสดีความสุข (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Salaam-Venky-สวัสดีความสุข-2022-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/ea9c5ecb7e0f40b0e70ffb79/ea9c5ecb7e0f40b0e70ffb79438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Sector 36 เซกเตอร์ 36 (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Sector-36-เซกเตอร์-36-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/9feb0bc1510f635b484357fd/9feb0bc1510f635b484357fd438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Leo ลีโอ สิงห์ร้ายอหังการ (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Leo-ลีโอ-สิงห์ร้ายอหังการ-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/253cda617608b44466532286/253cda617608b44466532286438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Wild Wild Punjab (2024) ปัญจาบป่วน มันส์ ฮา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Wild-Wild-Punjab-2024-ปัญจาบป่วน-มันส์-ฮา-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/a1b5240540920a006b4de60e/a1b5240540920a006b4de60e438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Maharaj (2024) มหาราช",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Maharaj-2024-มหาราช-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/75eb7bbc7b9daaad7b61f3d0/75eb7bbc7b9daaad7b61f3d0438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Mallari-2024-มัลลารี-ตำนานเชือด-โลกสะท้าน-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/28daa41f36d12f4ff213e4ef/28daa41f36d12f4ff213e4ef438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "777 Charlie (2022) ชาร์ลี มะหมาท้าโลกให้รัก",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/12/777-Charlie-2022-ชาร์ลี-มะหมาท้าโลกให้รัก-300x450.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ชาร์ลี มะหมาท้าโลกให้รัก",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/777-Charlie-2022-ชาร์ลี-มะหมาท้าโลกให้รัก-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/af6a1352151842e46f0da6c8/af6a1352151842e46f0da6c8168.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/af6a1352151842e46f0da6c8/af6a1352151842e46f0da6c8438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "ปาฏิหาริย์ทารกรัตติกาล (2012)",
+      "name": "Midnight's Children (2012) ปาฏิหาริย์ทารกรัตติกาล",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Midnights-Children-2012-ปาฏิหาริย์ทารกรัตติกาล-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ปาฏิหาริย์ทารกรัตติกาล",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Midnights-Children-2012-ปาฏิหาริย์ทารกรัตติกาล-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/da01f60aae89e27df2c49a59/da01f60aae89e27df2c49a59438.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/da01f60aae89e27df2c49a59/da01f60aae89e27df2c49a59438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "ยกเค้า กระเป๋ามาเฟีย (2020)",
+      "name": "Lootcase (2020) ยกเค้า กระเป๋ามาเฟีย",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Lootcase-2020-ยกเค้า-กระเป๋ามาเฟีย-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ยกเค้า กระเป๋ามาเฟีย",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Lootcase-2020-ยกเค้า-กระเป๋ามาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/a586d5eaf48a152d5a5bc091/a586d5eaf48a152d5a5bc091438.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/a586d5eaf48a152d5a5bc091/a586d5eaf48a152d5a5bc091438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
       "name": "Ponniyin Selvan Part 2 (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ยกเค้า กระเป๋ามาเฟีย",
-          "info": "HD (ซับไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/fbe9f02200de1f4eb5a7898e/fbe9f02200de1f4eb5a7898e438.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/fbe9f02200de1f4eb5a7898e/fbe9f02200de1f4eb5a7898e438.m3u8",
+      "info": "HD (ซับไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "คำตอบสุดท้าย...อยู่ที่หัวใจ (2008)",
+      "name": "Slumdog Millionaire (2008) คำตอบสุดท้าย...อยู่ที่หัวใจ",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Slumdog-Millionaire-2008-คำตอบสุดท้าย...อยู่ที่หัวใจ-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คำตอบสุดท้าย...อยู่ที่หัวใจ",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Slumdog-Millionaire-2008-คำตอบสุดท้าย...อยู่ที่หัวใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/3a805d5fb1fa27dfb4f6cea3/3a805d5fb1fa27dfb4f6cea3438.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/3a805d5fb1fa27dfb4f6cea3/3a805d5fb1fa27dfb4f6cea3438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "ฟ้าลิชิตขีวิตต้องสู้ (2017)",
+      "name": "Kadvi Hawa (2017) ฟ้าลิชิตขีวิตต้องสู้",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Kadvi-Hawa-2017-ฟ้าลิชิตขีวิตต้องสู้-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฟ้าลิชิตขีวิตต้องสู้",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Kadvi-Hawa-2017-ฟ้าลิชิตขีวิตต้องสู้-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/3926efeeae8f94b781125693/3926efeeae8f94b781125693168.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/3926efeeae8f94b781125693/3926efeeae8f94b781125693168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "ใจบันดาลฝัน (2020)",
+      "name": "Dil Bechara (2020) ใจบันดาลฝัน",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Dil-Bechara-2020-ใจบันดาลฝัน-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ใจบันดาลฝัน",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Dil-Bechara-2020-ใจบันดาลฝัน-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/192a4b197aac1ab37769895e/192a4b197aac1ab37769895e168.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/192a4b197aac1ab37769895e/192a4b197aac1ab37769895e168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "คอมมานโด (2013)",
+      "name": "Commando (2013) คอมมานโด",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Commando-2013-คอมมานโด-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คอมมานโด",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Commando-2013-คอมมานโด-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/96693cab73e6163e1c0eef6e/96693cab73e6163e1c0eef6e168.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/96693cab73e6163e1c0eef6e/96693cab73e6163e1c0eef6e168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "บากิ ยอดคนสุดระห่ำ 3 (2020)",
+      "name": "Baaghi 3 (2020) บากิ ยอดคนสุดระห่ำ 3",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Baaghi-3-2020-บากิ-ยอดคนสุดระห่ำ-3-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บากิ ยอดคนสุดระห่ำ 3",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Baaghi-3-2020-บากิ-ยอดคนสุดระห่ำ-3-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/86e6e114f0a84380962249d1/86e6e114f0a84380962249d1168.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/86e6e114f0a84380962249d1/86e6e114f0a84380962249d1168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "บากิ ยอดคนสุดระห่ำ 2 (2018)",
+      "name": "BAAGHI 2 (2018) บากิ ยอดคนสุดระห่ำ 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/04/BAAGHI-2-2018-บากิ-ยอดคนสุดระห่ำ-2-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บากิ ยอดคนสุดระห่ำ 2",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/BAAGHI-2-2018-บากิ-ยอดคนสุดระห่ำ-2-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/2ad683cca00944610b5aef0a/2ad683cca00944610b5aef0a168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "ภารกิจทริปเปิ้ลอาร์ (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/05/RRR-2022-ภารกิจทริปเปิ้ลอาร์-300x450.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ภารกิจทริปเปิ้ลอาร์",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/05/RRR-2022-ภารกิจทริปเปิ้ลอาร์-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/07f87517c1c942c213635b6c/07f87517c1c942c213635b6c168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "ฟ้ามิอาจกั้นรัก (2001)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Kabhi-Khushi-Kabhie-Gham-2001-ฟ้ามิอาจกั้นรัก-300x450.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฟ้ามิอาจกั้นรัก",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Kabhi-Khushi-Kabhie-Gham-2001-ฟ้ามิอาจกั้นรัก-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/506f2cbcac0eae73c42558ef/506f2cbcac0eae73c42558ef168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "ดวงใจบริสุทธิ์ (2008)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Golmaal-Returns-2008-ดวงใจบริสุทธิ์-300x450.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดวงใจบริสุทธิ์",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Golmaal-Returns-2008-ดวงใจบริสุทธิ์-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/633703552e6616b5a1bebdb8/633703552e6616b5a1bebdb8168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "แผนดัดหลังคำสั่งฆ่า (2009)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Kaminey-2009-แผนดัดหลังคำสั่งฆ่า-300x450.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "แผนดัดหลังคำสั่งฆ่า",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Kaminey-2009-แผนดัดหลังคำสั่งฆ่า-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/bd5f02fa458c9d0615af00e1/bd5f02fa458c9d0615af00e1168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "ฝันรัก ฝันร้าย (2019)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Yeh-Saali-Aashiqui-2019-ฝันรัก-ฝันร้าย-300x450.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฝันรัก ฝันร้าย",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Yeh-Saali-Aashiqui-2019-ฝันรัก-ฝันร้าย-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/1d097281f2f433aa79de7327/1d097281f2f433aa79de7327168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "ผีเฮี้ยนวิญญาณเพี้ยน (2020)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Laxmmi-Bomb-2020-ผีเฮี้ยนวิญญาณเพี้ยน-300x450.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ผีเฮี้ยนวิญญาณเพี้ยน",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Laxmmi-Bomb-2020-ผีเฮี้ยนวิญญาณเพี้ยน-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/22de2cad50b7a5d2d3b82980/22de2cad50b7a5d2d3b82980168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "คนกล่อมช้าง (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Elephant-Whisperers-2022-คนกล่อมช้าง-300x450.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "คนกล่อมช้าง",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Elephant-Whisperers-2022-คนกล่อมช้าง-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/59f63bcc31e52bc7021310a5/59f63bcc31e52bc7021310a5168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "อัศวินราชา บุปผาสวรรค์รานี (2008)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Jodhaa-Akbar-2008-อัศวินราชา-บุปผาสวรรค์รานี-300x450.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "อัศวินราชา บุปผาสวรรค์รานี",
-          "info": "HD (พากย์ไทย)",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Jodhaa-Akbar-2008-อัศวินราชา-บุปผาสวรรค์รานี-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/4fbde0ca7dc08eaa175a6cb2/4fbde0ca7dc08eaa175a6cb2168.m3u8",
-          "referer": ""
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/2ad683cca00944610b5aef0a/2ad683cca00944610b5aef0a168.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
     }
   ]
 }
