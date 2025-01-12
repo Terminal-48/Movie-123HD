@@ -1,15 +1,113 @@
 {
   "name": "หนังใหม่ 2024",
-  "author": "อัพเดท 10/12/2024",
+  "author": "อัพเดท 12/01/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2024.w3u",
   "stations": [
     {
-      "name": "I, the Executioner (2024) คู่เดือดนรกต้องกราบ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/I-the-Executioner-2024-คู่เดือดนรกต้องกราบ-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/5db679ae9b953a6a57e5489b/5db679ae9b953a6a57e5489b438.m3u8",
+      "name": "House of Sayuri (2024) บ้านผีอิหยังวะ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/House-of-Sayuri-2024-บ้านผีอิหยังวะ-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/a95fee0e5aa7c2638dd70192/a95fee0e5aa7c2638dd70192438.m3u8",
       "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Fury 12 Hours (2024) 12 ชั่วโมงแห่งความเกรี้ยวกราด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Fury-12-Hours-2024-12-ชั่วโมงแห่งความเกรี้ยวกราด-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/97145daf6bc5fff92b7d6b83/97145daf6bc5fff92b7d6b83438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Mystery Of Humanoid Puppet (2024) ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Mystery-Of-Humanoid-Puppet-2024-ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/051c90fe55dc70c8132d148c/051c90fe55dc70c8132d148c438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Panda Plan (2024) แพนด้าเด้งสู้ฟัด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Panda-Plan-2024-แพนด้าเด้งสู้ฟัด-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/be7109ef82e6abf94225dedf/be7109ef82e6abf94225dedf438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Kang Mak (2024) คังมาก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Kang-Mak-2024-คังมาก-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/5bead1a2bfee08ec14644dcd/5bead1a2bfee08ec14644dcd438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Sonic the Hedgehog 3 (2024) โซนิค เดอะ เฮดจ์ฮ็อก 3",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Sonic-the-Hedgehog-3-2024-โซนิค-เดอะ-เฮดจ์ฮ็อก-3-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/d372f19c5ff3e8c39beb36d5/d372f19c5ff3e8c39beb36d5438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Lord of the Rings The War of the Rohirrim (2024) เดอะ ลอร์ด ออฟ เดอะ ริงส์ ศึกแห่งโรฮิริม",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/The-Lord-of-the-Rings-The-War-of-the-Rohirrim-2024-เดอะ-ลอร์ด-ออฟ-เดอะ-ริงส์-ศึกแห่งโรฮิริม-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/5094a224202778fd9164de96/5094a224202778fd9164de96438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/9f228cc132a6dcdb1e9a71ba/9f228cc132a6dcdb1e9a71ba438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Paradise of Thorns (2024) วิมานหนาม",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/The-Paradise-of-Thorns-2024-วิมานหนาม-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/e7889f64f997d480967a3ad4/e7889f64f997d480967a3ad4438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Holy Man Comeback (2024) หลวงพี่เท่ง Comeback",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/The-Holy-Man-Comeback-2024-หลวงพี่เท่ง-Comeback-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/b428a2ac2b6d5b701ac05db0/b428a2ac2b6d5b701ac05db0438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Mystery of Jade (2024) เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/fd0f6f830b407ec14afbc7ab/fd0f6f830b407ec14afbc7ab438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Uranus (2024) ยูเรนัส 2324",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Uranus-2024-ยูเรนัส-2324-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/05f78f2b4178955a44f66013/05f78f2b4178955a44f66013438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Your Fault (2024) คำขอโทษ 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Your-Fault-2024-คำขอโทษ-2-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/4556bd05c3c896411f098461/4556bd05c3c896411f098461438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Alien Romulus เอเลี่ยน โรมูลัส (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Alien-Romulus-เอเลี่ยน-โรมูลัส-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/a335cc48a2a9fc2d8339e20d/a335cc48a2a9fc2d8339e20d438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "ฝีนาค Fee Nak (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/ฝีนาค-Fee-Nak-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/776b446405302b9d8ca39697/776b446405302b9d8ca39697438.m3u8",
+      "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
@@ -125,51 +223,65 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Spellbound (2024) ผจญภัยแดนต้องสาป",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Spellbound-ผจญภัยแดนต้องสาป-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/00050cca811fac21a2c52e11/00050cca811fac21a2c52e11438.m3u8",
+      "name": "The Wild Blade of Strangers (2024) นักดาบคนแปลกหน้า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024-นักดาบคนแปลกหน้า-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/a51f5284c7a7c465db37b1a4/a51f5284c7a7c465db37b1a4438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "The Piano Lesson (2024) บทเรียนจากเปียโน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Piano-Lesson-บทเรียนจากเปียโน-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/9aa168942f16ed04c3937537/9aa168942f16ed04c3937537438.m3u8",
+      "name": "We Live in Time เวลานั้นฉันและเธอ (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/c39c15f38c33254301effa05/c39c15f38c33254301effa05438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "A Legend พลิกตำนานฟัดทะลุเวลา (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/A-Legend-พลิกตำนานฟัดทะลุเวลา-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/8788c89d98270ae5c63e42c9/8788c89d98270ae5c63e42c9438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Absolution คนสันดานเดือด (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Absolution-คนสันดานเดือด-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/d9ce4612e57f2aa1e2be48e9/d9ce4612e57f2aa1e2be48e9438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Yolo-2024-หมวยย้วย...มวยไม่ยอมม้วย-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "The Cursed Land (2024) แดนสาป",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-แดนสาป-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3438.m3u8",
+      "name": "Let Go ปล่อย (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Let-Go-ปล่อย-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/1ec3c40c953710d40dc1d2f8/1ec3c40c953710d40dc1d2f8438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Hot Frosty ฟรอสตี้สุดฮอต (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Hot-Frosty-ฟรอสตี้สุดฮอต-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/api/fileprocess.html",
+      "name": "Freedom Libre จอมโจรใจเสรี (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Freedom-Libre-จอมโจรใจเสรี-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/5eae95f068eda57914473253/5eae95f068eda57914473253438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "The Lost Children เด็กสาบสูญ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Lost-Children-เด็กสาบสูญ-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/api/fileprocess.html",
-      "info": "HD (พากย์ไทย)",
+      "name": "Vina Before 7 Days วีนา คืนบาป สาปจากหลุม (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Vina-Before-7-Days-วีนา-คืนบาป-สาปจากหลุม-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/f7b843d31b33aac9fb8b2104/f7b843d31b33aac9fb8b2104438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "SuperMan The Christopher Reeve Story ซุปเปอร์ แมน เดอะ คริสโตเฟอร์ รีฟ สตอรี่ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/SuperMan-The-Christopher-Reeve-Story-ซุปเปอร์-แมน-เดอะ-คริสโตเฟอร์-รีฟ-สตอรี่-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/7477ddac37684c642b313b2d/7477ddac37684c642b313b2d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Horizon An American Saga Chapter 1 ฮอไรซัน มหากาพย์ชาติอเมริกัน ภาค 1 (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Horizon-An-American-Saga-Chapter-1-ฮอไรซัน-มหากาพย์ชาติอเมริกัน-ภาค-1-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/6a671a32b10c0e5ac13ab11b/6a671a32b10c0e5ac13ab11b438.m3u8",
+      "name": "ผีจิก Oh...My Wife (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/ผีจิก-Oh.My-Wife-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/ce08916e3b5d83cfcf0bba0d/ce08916e3b5d83cfcf0bba0d438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -234,580 +346,6 @@
       "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-วายร้ายพันธุ์ดี-ปล้นป่วนฮาโลวีน-2024-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/b68739aeb386aff5d472fa23/b68739aeb386aff5d472fa23438.m3u8",
       "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Black Storm พายุทมิฬ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Black-Storm-พายุทมิฬ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/ba560476adc5775884d08356/ba560476adc5775884d08356438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Prey ขย้ำ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Prey-ขย้ำ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/8a74b687b03678763fda29ef/8a74b687b03678763fda29ef438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-เวน่อม-มหาศึกอสูรอหังการ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/579fd0d64f81b8a296b29641/579fd0d64f81b8a296b29641438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Family Pack เกมมนุษย์หมาป่า (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Family-Pack-เกมมนุษย์หมาป่า-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/081da4c502c6e865ccfe4a52/081da4c502c6e865ccfe4a52438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Painter จิตรกร (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Painter-จิตรกร-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1e8b26dde77ff5e33e1a475c/1e8b26dde77ff5e33e1a475c438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "LEGO Marvel Avengers Mission Demolition (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/LEGO-Marvel-Avengers-Mission-Demolition-2024-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/3f7c890b75c3c8e8c679d92f/3f7c890b75c3c8e8c679d92f438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Smile 2 ยิ้มสยอง 2 (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Smile-2-ยิ้มสยอง-2-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/api/fileprocess.html",
-      "info": "ZOOM (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "ธี่หยด 2 Death Whisperer 2 (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/ธี่หยด-2-Death-Whisperer-2-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/696a9dbd85cfd64288303657/696a9dbd85cfd64288303657438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Happiness Is (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Happiness-Is-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/7e23a09346defbb3a5207248/7e23a09346defbb3a5207248438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Wild-Robot-หุ่นยนต์ผจญภัยในป่ากว้าง-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/821a2bcb34d0c8616e7772fb/821a2bcb34d0c8616e7772fb438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Canary Black รหัสลับดับโลก (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Canary-Black-รหัสลับดับโลก-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/81b2afe6eed266f57732b245/81b2afe6eed266f57732b245438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Brothers บราเธอร์ส ปล้นครั้งนี้เพื่อพี่ที่รัก (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Brothers-บราเธอร์ส-ปล้นครั้งนี้เพื่อพี่ที่รัก-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/959a8c91b5810ab4e67a0157/959a8c91b5810ab4e67a0157438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Outside เอาท์ไซด์ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Outside-เอาท์ไซด์-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/9bd916ef887b514260f0445c/9bd916ef887b514260f0445c438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Shadow Strays นักฆ่าเงาล่าทรชน (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Shadow-Strays-นักฆ่าเงาล่าทรชน-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/0bc8dbe76358714434f0f61a/0bc8dbe76358714434f0f61a438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "รักวนลูป Love Stuck (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/รักวนลูป-Love-Stuck-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5eef3ff44f98438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "เทอม 3 Haunted Universities 3 (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/เทอม-3-Haunted-Universities-3-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Lonely Planet ที่หมายใจโดดเดี่ยว (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Lonely-Planet-ที่หมายใจโดดเดี่ยว-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/6bf336c338d2ae594c7c15e9/6bf336c338d2ae594c7c15e9438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "In Her Place ชีวิตบนเส้นขนาน (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/In-Her-Place-ชีวิตบนเส้นขนาน-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1dad9b79afed503bd1120939/1dad9b79afed503bd1120939438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Breaking the Silence The Maria Soledad Case มาเรีย โซเลดัด ทำลายความเงียบ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Breaking-the-Silence-The-Maria-Soledad-Case-มาเรีย-โซเลดัด-ทำลายความเงียบ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/4f46812e77e5654017183b69/4f46812e77e5654017183b69438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Uprising กบฏผงาดแผ่นดิน (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Uprising-กบฏผงาดแผ่นดิน-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2137e4e5211589005da63c3f/2137e4e5211589005da63c3f438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Blue Lock Episode Nagi บลูล็อก เดอะมูฟวี่ ตอนนากิ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Blue-Lock-Episode-Nagi-บลูล็อก-เดอะมูฟวี่-ตอนนากิ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/d6ba9f6a5f23058bb410fbdb/d6ba9f6a5f23058bb410fbdb438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Blue Lock Episode Nagi บลูล็อก เดอะมูฟวี่ ตอนนากิ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Blue-Lock-Episode-Nagi-บลูล็อก-เดอะมูฟวี่-ตอนนากิ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/d6ba9f6a5f23058bb410fbdb/d6ba9f6a5f23058bb410fbdb438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Operation Blood Hunt (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Operation-Blood-Hunt-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/108c173da761f9ea63707c46/108c173da761f9ea63707c46438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Caddo Lake บึงลี้ลับ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Caddo-Lake-บึงลี้ลับ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/ee6480c789c309dbfcba1781/ee6480c789c309dbfcba1781438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "หอแต๋วแตก แหกสัปะหยด Oh My Ghost The Finale (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/หอแต๋วแตก-แหกสัปะหยด-Oh-My-Ghost-The-Finale-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2049b2b7c05193358600d233/2049b2b7c05193358600d233438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "อนงค์ My Boo (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/อนงค์-My-Boo-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Menendez Brothers พี่น้องเมเนนเดซ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Menendez-Brothers-พี่น้องเมเนนเดซ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/bb389d7e4825d396ba6dcdd1/bb389d7e4825d396ba6dcdd1438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Doraemon the Movie Nobita's Earth Symphony โดราเอมอน เดอะ มูฟวี่ โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobitas-Earth-Symphony-โดราเอมอน-เดอะ-มูฟวี่-โลกแห่งซิมโฟนี่ของโนบิตะ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/5a10e0c637eec54391b3a218/5a10e0c637eec54391b3a218438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "CTRL (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/CTRL-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1c4949eff7d793a944099d1e/1c4949eff7d793a944099d1e438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Hijack 1971 นรกเหนือน่านฟ้า (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Hijack-1971-นรกเหนือน่านฟ้า-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/b7f57e64e16c637787d045c2/b7f57e64e16c637787d045c2438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Diary ปริศนาสมุดขุดอดีต (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Diary-ปริศนาสมุดขุดอดีต-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2bbd3d3cc492cf1eeb8c8136/2bbd3d3cc492cf1eeb8c8136438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "It's What's Inside กระเป๋าลับสลับร่าง (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Its-Whats-Inside-กระเป๋าลับสลับร่าง-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/83187990cba70d3db4740b6f/83187990cba70d3db4740b6f438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Salems Lot ท้าสู้ผีนรก (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Salems-Lot-ท้าสู้ผีนรก-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/bc048ee5e5dad8a62ed17f57/bc048ee5e5dad8a62ed17f57438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Trouble ผิดที่ ผิดทาง (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Trouble-ผิดที่-ผิดทาง-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/29d1f0c9855ba267efabade2/29d1f0c9855ba267efabade2438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "House of Spoils เชฟ บ้าน วิญญาณหลอน (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/House-of-Spoils-เชฟ-บ้าน-วิญญาณหลอน-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/3b63471981b4c7804e6a21b0/3b63471981b4c7804e6a21b0438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Previously Saved Version บันทึกความทรงจำข้ามดวงดาว (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Previously-Saved-Version-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/10ce02204d67bbf369de9845/10ce02204d67bbf369de9845438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Rez Ball เรซบอล (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Rez-Ball-เรซบอล-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/664d6ed1f912b4095876f03a/664d6ed1f912b4095876f03a438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Transformers One (2024) ทรานส์ฟอร์เมอร์ส 1",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Transformers-One-ทรานส์ฟอร์เมอร์ส-1-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Taklee Genesis (2024) ตาคลี เจเนซิส",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Taklee-Genesis-ตาคลี-เจเนซิส-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/f891e6183f86781dc2416ec2/f891e6183f86781dc2416ec2438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "ฝ่านรกเมืองเทวดา Bangkok Breaking Heaven and Hell (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/ฝ่านรกเมืองเทวดา-Bangkok-Breaking-Heaven-and-Hell-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/api/fileprocess.html",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Killer Heat เด็ดปีกฆ่า (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Killer-Heat-เด็ดปีกฆ่า-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/675b8ce020b27516cd370181/675b8ce020b27516cd370181438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "It Ends with Us ร่องรอยแห่งรักเรา (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/It-Ends-with-Us-ร่องรอยแห่งรักเรา-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/59f7c5db4d67aec0dac46f7f/59f7c5db4d67aec0dac46f7f438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Never Let Go ผูกเป็น หลุดตาย (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Never-Let-Go-ผูกเป็น-หลุดตาย-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1a1c42e7d4ce99281a7dfae7/1a1c42e7d4ce99281a7dfae7438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Pilot ต้าวนักบิน จิ้นกันไหมจ๊ะ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Pilot-ต้าวนักบิน-จิ้นกันไหมจ๊ะ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/d13301507423efda1a90c8d6/d13301507423efda1a90c8d6438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "สัปเหน่อ Under Accent Taker (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/สัปเหน่อ-Under-Accent-Taker-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/aa724d04d90c7bfc54ba2ec5/aa724d04d90c7bfc54ba2ec5438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "โคตรทีมรหัสลับ จอห์นนี่ Code Name Johnny (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/โคตรทีมรหัสลับ-จอห์นนี่-Code-Name-Johnny-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/be77a76beb38d22033836323/be77a76beb38d22033836323438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "โคตรทีมรหัสลับ จอห์นนี่ Code Name Johnny (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/โคตรทีมรหัสลับ-จอห์นนี่-Code-Name-Johnny-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/be77a76beb38d22033836323/be77a76beb38d22033836323438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "มอร์ริสัน Morrison (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/มอร์ริสัน-Morrison-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/4b8ef3f24a457f028976ccad/4b8ef3f24a457f028976ccad438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Sector 36 เซกเตอร์ 36 (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Sector-36-เซกเตอร์-36-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/9feb0bc1510f635b484357fd/9feb0bc1510f635b484357fd438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Grave Torture ทุบนรก ศพกระดิก (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Grave-Torture-ทุบนรก-ศพกระดิก-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1d860a33b4b7828dc95052ad/1d860a33b4b7828dc95052ad438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Officer Black Belt เจ้าหน้าที่สายดำ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Officer-Black-Belt-เจ้าหน้าที่สายดำ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/d3e0192fbcd88d7090a8e91a/d3e0192fbcd88d7090a8e91a438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Uglies อั๊กลี่ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Uglies-อั๊กลี่-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/533e860ec4fe8fcc7a78d52c/533e860ec4fe8fcc7a78d52c438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Oddity หุ่นเชื่อมจิต (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Oddity-หุ่นเชื่อมจิต-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2e038381ef4c34c3b8f3e43a/2e038381ef4c34c3b8f3e43a438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Customs Frontline (2024) คนมหากาฬพิฆาตนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Customs-Frontline-คนมหากาฬพิฆาตนรก-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/9c5425e9d7cdab4c27e767e3/9c5425e9d7cdab4c27e767e3438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Tuesday ทิวส์เดย์ (2024) ดวงใจไม่หวนกลับ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Tuesday-ทิวส์เดย์-ดวงใจไม่หวนกลับ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/a50af4c9eb4e39351fd3841f/a50af4c9eb4e39351fd3841f438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Greedy People (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Greedy-People-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/84794429feb9de19a03eb476/84794429feb9de19a03eb476438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "หลานม่า How to Make Millions Before Grandma Dies (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/หลานม่า-How-to-Make-Millions-Before-Grandma-Dies-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/222da444705fd1cf1175d3f0/222da444705fd1cf1175d3f0438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Outlaw เจ้าแม่ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Outlaw-เจ้าแม่-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2492527afd16cf717160e2ad/2492527afd16cf717160e2ad438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Boxer นักชกสังเวียนดิบ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Boxer-นักชกสังเวียนดิบ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/f99c7e9e6f2cbcf90638b943/f99c7e9e6f2cbcf90638b943438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Teachers Lounge ห้องเรียนเดือด (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/The-Teachers-Lounge-ห้องเรียนเดือด-2023-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/91823f9604c2d94961c8531a/91823f9604c2d94961c8531a438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Claws กรงเล็บเลือด (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Claws-กรงเล็บเลือด-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/8870ed77a478ee86eee6c1b4/8870ed77a478ee86eee6c1b4438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Blink Twice บลิงก์ ทไวซ์ ซิกอันตราย (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Blink-Twice-บลิงก์-ทไวซ์-ซิกอันตราย-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/3fed3e927923a9773f34084b/3fed3e927923a9773f34084b438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Nice Girls (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Nice-Girls-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/b1bd5b511e46ae1509d71b08/b1bd5b511e46ae1509d71b08438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Incoming มือใหม่ไฮสกูล (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Incoming-มือใหม่ไฮสกูล-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/113fbe62869a458769b605db/113fbe62869a458769b605db438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Alien Romulus เอเลี่ยน โรมูลัส (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Alien-Romulus-เอเลี่ยน-โรมูลัส-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/ec938d3cf4fd2a8b5d8c7363/ec938d3cf4fd2a8b5d8c7363438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Crow อีกาพญายม (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/The-Crow-อีกาพญายม-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/7695a768f4af4442a14b012f/7695a768f4af4442a14b012f438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Rebel Ridge เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Rebel-Ridge-เรเบลริดจ์-ผ่าเมืองอยุติธรรม-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/fa42b12851ac746b34e96279/fa42b12851ac746b34e96279438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Trap (2024) แทร็ป",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Trap-2024-แทร็ป-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/11e270054dd49ee8e6f42d17/11e270054dd49ee8e6f42d17438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Watchers (2024) เดอะวอทเชอร์ส",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Watchers-2024-เดอะวอทเชอร์ส-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/01468b16bb55c7669bf5c837/01468b16bb55c7669bf5c837438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Strange Darling รัก ลวง ฆ่า (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Strange-Darling-รัก-ลวง-ฆ่า-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/df26755b80fbd903ec228ad1/df26755b80fbd903ec228ad1438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "เธอฟอร์แคช Love You to Debt (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/เธอฟอร์แคช-Love-You-to-Debt-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/24476b90f41c9f34ffb82ef0/24476b90f41c9f34ffb82ef0438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Escape (2024) หนีให้พ้นนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/0d6953721084c4e01418bef6/0d6953721084c4e01418bef6438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Borderlands (2024) บอร์เดอร์แลนดส์ แดนล้น คนปล้นจักรวาล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Borderlands-2024-บอร์เดอร์แลนดส์-แดนล้น-คนปล้นจักรวาล-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/c43df236a46f7ab94f31577d/c43df236a46f7ab94f31577d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Jackpot! (2024) แจ็คพ็อต ลุ้น รอด รวย!",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Jackpot-2024-แจ็คพ็อต-ลุ้น-รอด-รวย-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1a27b4ef4e19dd74400ec7b3/1a27b4ef4e19dd74400ec7b3438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Twilight of the Warriors Walled In (2024) เมืองพญายม ปิดบัญชียมบาล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/ee480331e38c172bb43af344/ee480331e38c172bb43af344438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Twisters (2024) ทวิสเตอร์ส",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Twisters-2024-ทวิสเตอร์ส-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/30ff215bff57354bbc33dcec/30ff215bff57354bbc33dcec438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Fly Me to the Moon (2024) ทะยานฟ้าสู่พื้นจันทร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Fly-Me-to-the-Moon-2024-ทะยานฟ้าสู่พื้นจันทร์-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1da7590e2d0f6d20162c813e/1da7590e2d0f6d20162c813e438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Unsung Hero (2024) รัก ฝัน ศรัทธา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Unsung-Hero-2024-รัก-ฝัน-ศรัทธา-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/5d8d2594f75f1f17a4e870a4/5d8d2594f75f1f17a4e870a4438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Inside the Mind of a Dog (2024) อ่านใจสุนัข",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024-อ่านใจสุนัข-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/757e551de0ffd8374239eb37/757e551de0ffd8374239eb37438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Mission Cross (2024) ภารกิจลับพ่อบ้าน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Mission-Cross-2024-ภารกิจลับพ่อบ้าน-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1632b9083748a0e71eb4d6a7/1632b9083748a0e71eb4d6a7438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Deadpool &amp; Wolverine (2024) เดดพูล &amp; วูล์ฟเวอรีน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-เดดพูล-วูล์ฟเวอรีน-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2f41c01ce5601b8bd579b62a/2f41c01ce5601b8bd579b62a438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "One Fast Move (2024) วันฟาสต์มูฟ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/One-Fast-Move-2024-วันฟาสต์มูฟ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/a9bcb89574f2b69134987012/a9bcb89574f2b69134987012438.m3u8",
-      "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
   ]
