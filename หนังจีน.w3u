@@ -1,10 +1,38 @@
 {
   "name": "หนังจีน",
-  "author": "อัพเดท 10/12/2024",
+  "author": "อัพเดท 12/01/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังจีน.w3u",
   "stations": [
+    {
+      "name": "Fury 12 Hours (2024) 12 ชั่วโมงแห่งความเกรี้ยวกราด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Fury-12-Hours-2024-12-ชั่วโมงแห่งความเกรี้ยวกราด-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/97145daf6bc5fff92b7d6b83/97145daf6bc5fff92b7d6b83438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Mystery Of Humanoid Puppet (2024) ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Mystery-Of-Humanoid-Puppet-2024-ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/051c90fe55dc70c8132d148c/051c90fe55dc70c8132d148c438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Panda Plan (2024) แพนด้าเด้งสู้ฟัด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Panda-Plan-2024-แพนด้าเด้งสู้ฟัด-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/be7109ef82e6abf94225dedf/be7109ef82e6abf94225dedf438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Mystery of Jade (2024) เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/fd0f6f830b407ec14afbc7ab/fd0f6f830b407ec14afbc7ab438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Striking Rescue คนเดือด​ ซัดนรก (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Striking-Rescue-คนเดือด​-ซัดนรก-2024-300x450.jpg",
@@ -83,51 +111,23 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Detective Dee The Skeleton General (2022) ตี๋เหรินเจี๋ย ปริศนาโครงกระดูก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Detective-Dee-The-Skeleton-General-2022-ตี๋เหรินเจี๋ย-ปริศนาโครงกระดูก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/8922680a4db1b15739418f8a/8922680a4db1b15739418f8a438.m3u8",
+      "name": "Burning Peony (2022) ดอกโบตั๋นที่ลุกไหม้",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Burning-Peony-2022-ดอกโบตั๋นที่ลุกไหม้-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/e6c35d69a5a29a92f48d1011/e6c35d69a5a29a92f48d1011438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "The Imp (1996) นรกรอรัก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Imp-1996-นรกรอรัก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/e2a44cae74668a317fa11ea1/e2a44cae74668a317fa11ea1438.m3u8",
+      "name": "Messy temple (2022) ก๊วนสุดจัด วัดอลเวง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Messy-temple-2022-ก๊วนสุดจัด-วัดอลเวง-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/70c7e04e19526384f955a05e/70c7e04e19526384f955a05e438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Painted Heart Twin Tribulations (2023) วาดรัก ใจสองดวง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Painted-Heart-Twin-Tribulations-2023-วาดรัก-ใจสองดวง-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/06dae4e2ea6b8b8c62553dba/06dae4e2ea6b8b8c62553dba438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Die-Hart-2-Die-Harter-2024-ฮาร์ต-อึดเต็มคาราเบล-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/caf94d51a9c4b3b139d8f71d/caf94d51a9c4b3b139d8f71d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Incantation (2022) มนตรา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Incantation-2022-มนตรา-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/7dc96f339b2f63e241d40fae2b6f5ee5/7dc96f339b2f63e241d40fae2b6f5ee5.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The First Myth Clash of Gods (2021) ศึกตัดสินชะตาหมื่นเซียน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-First-Myth-Clash-of-Gods-2021-ศึกตัดสินชะตาหมื่นเซียน-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1127f4bf53877d4aa72373ff/1127f4bf53877d4aa72373ff438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Figth Break Sphere (2023) สัประยุทธ์ทะลุฟ้า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-สัประยุทธ์ทะลุฟ้า-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/7728de52198f5a623feb14c9/7728de52198f5a623feb14c9438.m3u8",
+      "name": "The Comeback (2023) เดือดร้อนให้หาลุงหัว",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Comeback-2023-เดือดร้อนให้หาลุงหัว-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/0fa9872d74c5a88b03c842ee/0fa9872d74c5a88b03c842ee438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -219,181 +219,6 @@
       "name": "Revenge Girl (2022) สวยมรณะ",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Revenge-Girl-2022-สวยมรณะ-300x450.png",
       "url": "https://main.24playerhd.com/m3u8/8d61081e96996dfae0de417d/8d61081e96996dfae0de417d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Legend of Herring (2022) ตำนานปลาแฮร์ริ่ง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/The-Legend-of-Herring-2022-ตำนานปลาแฮร์ริ่ง.jpg",
-      "url": "https://main.24playerhd.com/m3u8/e17addf1c540e0a5d570f61d/e17addf1c540e0a5d570f61d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Moscow Mission (2023) ภารกิจท้านรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Moscow-Mission-2023-ภารกิจท้านรก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/d61583fa85b52e4fb2cdd269/d61583fa85b52e4fb2cdd269438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Magic Lotus Lantern (2021) ตำนานรักโคมสวรรค์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/The-Magic-Lotus-Lantern-2021-ตำนานรักโคมสวรรค์-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/27f8e38a22103a4241e631fe/27f8e38a22103a4241e631fe438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Coffin Mountain Ancient Tomb (2022) ล่าขุมทรัพย์ สุสานโบราณ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Coffin-Mountain-Ancient-Tomb-2022-ล่าขุมทรัพย์-สุสานโบราณ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/4e74e53f371b0fb7b1163833/4e74e53f371b0fb7b1163833438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Love for Life (2011)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Love-for-Life-2011-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/70ef60f70a7d8d8dcf96bd5d/70ef60f70a7d8d8dcf96bd5d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Bridge Curse Ritual (2023) โรงเรียนผีเฮี้ยน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023-โรงเรียนผีเฮี้ยน-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2dd9283986e78410933ad885/2dd9283986e78410933ad885438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Ride On (2023) ควบสู้ฟัด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Ride-On-2023-ควบสู้ฟัด-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/4befafc9ac161affa0dd2bc2/4befafc9ac161affa0dd2bc2438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2-2023-ผู้พิทักษ์หมัดเทวดา-2-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/40ec4ac890d9782ed5571050/40ec4ac890d9782ed5571050438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Legend Of Detective Dee (2023) ตี๋เหรินเจี๋ย คลองมังกรผวา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Legend-Of-Detective-Dee-2023-ตี๋เหรินเจี๋ย-คลองมังกรผวา-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/4cf15b092adca9a212865690/4cf15b092adca9a212865690438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Chinese Zodiac (2012) วิ่ง ปล้น ฟัด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Chinese-Zodiac-2012-วิ่ง-ปล้น-ฟัด-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/e2976db54c33092f4b504e64/e2976db54c33092f4b504e64438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-จอมเวทย์เหนือเมฆ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/616a7e48da555365626f8bbe/616a7e48da555365626f8bbe438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "New Gods Yang Jian (2022) หยางเจี่ยน เทพสามตา มหาศึกผนึกเขาบงกช",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/New-Gods-Yang-Jian-2022-หยางเจี่ยน-เทพสามตา-มหาศึกผนึกเขาบงกช-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/93b3670d5c72ae9b1563f366/93b3670d5c72ae9b1563f366438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "One and Only (2023) สเต็ปกล้าท้าฝัน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/One-and-Only-2023-สเต็ปกล้าท้าฝัน-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/ba83164ea87b2e94887dad97/ba83164ea87b2e94887dad97438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Those Merry Souls (1995) ผีก็ช่าง ไม่ผีก็ช่าง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Those-Merry-Souls-1995-ผีก็ช่าง-ไม่ผีก็ช่าง-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/71e4c1e00249172b7f265ee2/71e4c1e00249172b7f265ee2438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Knuckle-Girl-2023-เจ๊ทวงแค้น-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/670a7328a588c8de11349420/670a7328a588c8de11349420438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Lord of Shanghai (2016) โค่นอำนาจเจ้าพ่ออหังการ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Lord-of-Shanghai-2016-โค่นอำนาจเจ้าพ่ออหังการ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/03897380cf27f2f02b9c9b71/03897380cf27f2f02b9c9b71438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Oolong Courtyard Kung Fu School (2018) กิ๋ว-ก๋า-กิ้ว จิ๋วแต่ตัว",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Oolong-Courtyard-Kung-Fu-School-2018-กิ๋ว-ก๋า-กิ้ว-จิ๋วแต่ตัว-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/6450041edfa812663c5f4bc3/6450041edfa812663c5f4bc3438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Golden Chickensss (2014) กำไก่คัพD แฮ้ปปี้คูณสาม",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Golden-Chickensss-2014-กำไก่คัพD-แฮ้ปปี้คูณสาม-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/0ba687bbe59d8892a4d0e268/0ba687bbe59d8892a4d0e268438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Twelve Fairies (1990) ศึกอภินิหาร 12 นักษัตร",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Twelve-Fairies-1990-ศึกอภินิหาร-12-นักษัตร-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/627107bc0c07bb971abde8ec/627107bc0c07bb971abde8ec438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Chronicles of the Ghostly Tribe (2015) อสูรยักษ์แห่งหุบเขามรณะ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Chronicles-of-the-Ghostly-Tribe-2015-อสูรยักษ์แห่งหุบเขามรณะ-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2483cd93e45a022e0dd4a6f3/2483cd93e45a022e0dd4a6f3438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Devil Hunters (1989) เชือดเชือด เดือดเดือด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Devil-Hunters-1989-เชือดเชือด-เดือดเดือด-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/3bc5c5819cca9efbc3f1d696/3bc5c5819cca9efbc3f1d696438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Hidden Blade (2023) โค่นคมพยัคฆ์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Hidden-Blade-2023-โค่นคมพยัคฆ์-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/7119e4fb206ce6b0d34b507d/7119e4fb206ce6b0d34b507d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Shaolin (2011) เส้าหลิน สองใหญ่",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/05/Shaolin-2011-เส้าหลิน-สองใหญ่-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/e44832607fe978aff768847d/e44832607fe978aff768847d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Marry My Dead Body (2023) แต่งงานกับผี",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Marry-My-Dead-Body-2023-แต่งงานกับผี-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/9c1ac98a5c2f59ccaab2d469/9c1ac98a5c2f59ccaab2d469438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Infernal Affairs 3 (2003) ปิดตำนานสองคนสองคม",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Infernal-Affairs-3-2003-ปิดตำนานสองคนสองคม-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/ed466a1e63d359ac93e78bc8/ed466a1e63d359ac93e78bc8438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
