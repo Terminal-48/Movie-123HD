@@ -1,10 +1,24 @@
 {
   "name": "หนังไทย",
-  "author": "อัพเดท 12/01/2025",
+  "author": "อัพเดท 15/01/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังไทย.w3u",
   "stations": [
+    {
+      "name": "Shoot It Up (2024) ปะฉะดะ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Shoot-It-Up-2024-ปะฉะดะ-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/5bb3f37363d90c8d3a70dcc1/5bb3f37363d90c8d3a70dcc1438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Nednari (2023) อวสานเนตรนารี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Nednari-2023-อวสานเนตรนารี-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/51d3c7d5517ec3ca7a15c859/51d3c7d5517ec3ca7a15c859438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "The Paradise of Thorns (2024) วิมานหนาม",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/01/The-Paradise-of-Thorns-2024-วิมานหนาม-300x450.png",
@@ -72,13 +86,6 @@
       "name": "The Cursed Land (2024) แดนสาป",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-แดนสาป-300x450.png",
       "url": "https://main.24playerhd.com/m3u8/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "ผีจิก Oh...My Wife (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/ผีจิก-Oh.My-Wife-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/ce08916e3b5d83cfcf0bba0d/ce08916e3b5d83cfcf0bba0d438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -295,7 +302,7 @@
     {
       "name": "4 Kings (2022) อาชีวะยุค 90",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/04/4Kings-2022-อาชีวะยุค-90-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/a2cf6691cbdb68fcc66e22a8e696089b/a2cf6691cbdb68fcc66e22a8e696089b.m3u8",
+      "url": "https://hot.24playerhd.com/newplaylist/0d3eb779480a8d81924284c65731c38c/0d3eb779480a8d81924284c65731c38c.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -660,20 +667,6 @@
       "name": "Postman (2023) ไปรษณีย์ 4 โลก",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Postman-2023-ไปรษณีย์-4-โลก-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/27db5e6ea57d0eef8d9c094f/27db5e6ea57d0eef8d9c094f438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Home (2012) ความรัก ความสุข ความทรงจำ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Home-2012-ความรัก-ความสุข-ความทรงจำ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/4745a3c8e437648943540064/4745a3c8e437648943540064438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "After Sundown (2023) ดับแสงรวี",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/After-Sundown-2023-ดับแสงรวี-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/bed3f120edae3e9a5fa75813/bed3f120edae3e9a5fa75813438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
