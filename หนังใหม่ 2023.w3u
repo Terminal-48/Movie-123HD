@@ -1,10 +1,24 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "อัพเดท 12/01/2025",
+  "author": "อัพเดท 15/01/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2023.w3u",
   "stations": [
+    {
+      "name": "Nednari (2023) อวสานเนตรนารี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Nednari-2023-อวสานเนตรนารี-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/51d3c7d5517ec3ca7a15c859/51d3c7d5517ec3ca7a15c859438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "One Life (2023) มากกว่าหนึ่งชีวิต",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/One-Life-2023-มากกว่าหนึ่งชีวิต-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/48ca3658f24c07f04b7559dc/48ca3658f24c07f04b7559dc438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Craig Before the Creek (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Craig-Before-the-Creek-2023-300x450.jpg",
@@ -51,34 +65,6 @@
       "name": "Sijjin (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Sijjin-2023-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/73b1c1759b51e323b5b44f74/73b1c1759b51e323b5b44f74438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Abang Adik ล่าฝันเมืองเดือด (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Abang-Adik-ล่าฝันเมืองเดือด-2023-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/7a72336f46b172a5e4144456/7a72336f46b172a5e4144456438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "His Three Daughters สามสาว ลูกสาวพ่อ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/His-Three-Daughters-สามสาว-ลูกสาวพ่อ-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/4c6518013d25210d6fb87675/4c6518013d25210d6fb87675438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Leo ลีโอ สิงห์ร้ายอหังการ (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Leo-ลีโอ-สิงห์ร้ายอหังการ-2023-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/253cda617608b44466532286/253cda617608b44466532286438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Passenger ผู้ร่วมเดินทาง (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/The-Passenger-ผู้ร่วมเดินทาง-2023-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/a6bf498119993fe8de2364ea/a6bf498119993fe8de2364ea438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -359,20 +345,6 @@
       "name": "Trending Topic (2023) ฮิตติดเทรนด์",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Trending-Topic-2023-ฮิตติดเทรนด์-1-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/74dd6bc3e32b8cf5483dc8a5/74dd6bc3e32b8cf5483dc8a5438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Forbidden Play (2023) หลุมหลอนซ่อนคำสาป",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Forbidden-Play-2023-หลุมหลอนซ่อนคำสาป-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/9b5664a86c29fa7aa430e067/9b5664a86c29fa7aa430e067438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Anatomy of a Fall (2023) เขาบอกว่าเธอฆ่า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Anatomy-of-a-Fall-2023-เขาบอกว่าเธอฆ่า-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/51fc2661c43d54c7df08f57a/51fc2661c43d54c7df08f57a438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
