@@ -1,10 +1,17 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "อัพเดท 15/01/2025",
+  "author": "อัพเดท 25/01/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2023.w3u",
   "stations": [
+    {
+      "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/770c684c2c433bbd01931bbd/770c684c2c433bbd01931bbd438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Nednari (2023) อวสานเนตรนารี",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Nednari-2023-อวสานเนตรนารี-1-300x450.png",
@@ -59,13 +66,6 @@
       "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-White-Storm-3-Heaven-or-Hell-คนอันตรายล่าข้ามโลก-3-2023-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/288f7176f98b7420b5cb2d84/288f7176f98b7420b5cb2d84438.m3u8",
       "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Sijjin (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Sijjin-2023-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/73b1c1759b51e323b5b44f74/73b1c1759b51e323b5b44f74438.m3u8",
-      "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
@@ -150,13 +150,6 @@
       "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Hopeless-2023-คน-จน-ตรอก-1-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/7fa8c945587968dc78e66ddb/7fa8c945587968dc78e66ddb438.m3u8",
       "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/e6b420cae5275d981617ece7/e6b420cae5275d981617ece7438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
