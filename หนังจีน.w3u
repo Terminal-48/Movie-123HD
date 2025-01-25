@@ -1,10 +1,24 @@
 {
   "name": "หนังจีน",
-  "author": "อัพเดท 12/01/2025",
+  "author": "อัพเดท 25/01/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังจีน.w3u",
   "stations": [
+    {
+      "name": "Martial Universe 1 Immortal Stone of Nirvana (2020) มหายุทธหยุดพิภพ 1",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Martial-Universe-1-Immortal-Stone-of-Nirvana-2020-มหายุทธหยุดพิภพ-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/1e28b3bb77e7274b282a495c/1e28b3bb77e7274b282a495c438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Martial Universe 2 Nine Talisman Tower (2021) มหายุทธหยุดพิภพ 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Martial-Universe-2-Nine-Talisman-Tower-2021-มหายุทธหยุดพิภพ-2-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/335a4a08779a3ac394c4896a/335a4a08779a3ac394c4896a438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Fury 12 Hours (2024) 12 ชั่วโมงแห่งความเกรี้ยวกราด",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Fury-12-Hours-2024-12-ชั่วโมงแห่งความเกรี้ยวกราด-300x450.png",
@@ -125,9 +139,23 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "The Comeback (2023) เดือดร้อนให้หาลุงหัว",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Comeback-2023-เดือดร้อนให้หาลุงหัว-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/0fa9872d74c5a88b03c842ee/0fa9872d74c5a88b03c842ee438.m3u8",
+      "name": "Incantation (2022) มนตรา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Incantation-2022-มนตรา-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/7dc96f339b2f63e241d40fae2b6f5ee5/7dc96f339b2f63e241d40fae2b6f5ee5.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The First Myth Clash of Gods (2021) ศึกตัดสินชะตาหมื่นเซียน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-First-Myth-Clash-of-Gods-2021-ศึกตัดสินชะตาหมื่นเซียน-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/1127f4bf53877d4aa72373ff/1127f4bf53877d4aa72373ff438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Figth Break Sphere (2023) สัประยุทธ์ทะลุฟ้า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-สัประยุทธ์ทะลุฟ้า-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/7728de52198f5a623feb14c9/7728de52198f5a623feb14c9438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -156,69 +184,6 @@
       "name": "The Viral Factor (2012) เถื่อน เฉือนระห่ำ 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Viral-Factor-2012-เถื่อน-เฉือนระห่ำ-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/3e48ae8057ea29680a07a505/3e48ae8057ea29680a07a505438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Swords Drawn (2024) ตำนานสู่ซาน ยอดกระบี่หวนคืน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Swords-Drawn-2024-ตำนานสู่ซาน-ยอดกระบี่หวนคืน-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/96c247899fc77c6ed58a5bdc/96c247899fc77c6ed58a5bdc438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Monkey King (2022) ตำนานศึกราชาวานร",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Monkey-King-2022-ตำนานศึกราชาวานร-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/3fcd16af62f123ad0004b50c/3fcd16af62f123ad0004b50c168.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Rob-N-Roll-2024-มหากาพย์ปล้นจารชน-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/e1758ea5bfbf71e84efd5c3c/e1758ea5bfbf71e84efd5c3c438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Liaozhai Painting Wall (2023) กำแพงภาพปีศาจ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Liaozhai-Painting-Wall-2023-กำแพงภาพปีศาจ-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/0828c1ccfb04136d7ad1a1da/0828c1ccfb04136d7ad1a1da438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Kung Fu Monster (2018) ยุทธจักรอสูรยักษ์สะท้านฟ้า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Kung-Fu-Monster-2018-ยุทธจักรอสูรยักษ์สะท้านฟ้า-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/88eaac2857ec8a1ef4eb8dac/88eaac2857ec8a1ef4eb8dac438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Goldfinger (2023) โคตรพยัคฆ์ชนคนมือทอง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Goldfinger-2023-โคตรพยัคฆ์ชนคนมือทอง-1-300x450.jpg",
-      "url": "https://www.123-hd.com/api/fileprocess.html",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Call of Heroes (2016) มังกรหนุ่มผยองเดช",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Call-of-Heroes-2016-มังกรหนุ่มผยองเดช-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/b2a7f58106c083919bc3fc06/b2a7f58106c083919bc3fc06438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Eye for an Eye (2022) ยอดกระบี่ไร้เทียมทาน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Eye-for-an-Eye-2022-ยอดกระบี่ไร้เทียมทาน-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/d891be42b975cbed6ebfda8d/d891be42b975cbed6ebfda8d168.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Revenge Girl (2022) สวยมรณะ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Revenge-Girl-2022-สวยมรณะ-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/8d61081e96996dfae0de417d/8d61081e96996dfae0de417d438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
