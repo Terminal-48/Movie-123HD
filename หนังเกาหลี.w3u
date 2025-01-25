@@ -1,10 +1,24 @@
 {
   "name": "หนังเกาหลี",
-  "author": "อัพเดท 12/01/2025",
+  "author": "อัพเดท 25/01/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังเกาหลี.w3u",
   "stations": [
+    {
+      "name": "Escape (2024) หนีให้พ้นนรก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/0d6953721084c4e01418bef6/0d6953721084c4e01418bef6438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Following (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Following-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/b36d8b40b7d26bdf75ac9d42/b36d8b40b7d26bdf75ac9d42438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-1-300x450.jpg",
@@ -76,13 +90,6 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Escape (2024) หนีให้พ้นนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/0d6953721084c4e01418bef6/0d6953721084c4e01418bef6438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
       "name": "Mission Cross (2024) ภารกิจลับพ่อบ้าน",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Mission-Cross-2024-ภารกิจลับพ่อบ้าน-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/1632b9083748a0e71eb4d6a7/1632b9083748a0e71eb4d6a7438.m3u8",
@@ -93,6 +100,13 @@
       "name": "Remember You (2016) อย่าลืมฉัน",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Remember-You-2016-อย่าลืมฉัน-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/30fe597e3823090af6993506/30fe597e3823090af6993506438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Fatal Intuition (2015) แค้น ล่า ฆ่า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Fatal-Intuition-2015-แค้น-ล่า-ฆ่า-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/038b07a6c998a942ca28a021/038b07a6c998a942ca28a021438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -170,90 +184,6 @@
       "name": "Always (2011) กอดคือสัญญา หัวใจฝากมาชั่วนิรันดร์",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Always-2011-กอดคือสัญญา-หัวใจฝากมาชั่วนิรันดร์-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/54a57ad58a9c504b019939c5/54a57ad58a9c504b019939c5168.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Smugglers (2023) อหังการ์ทีมปล้นประดาน้ำ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Smugglers-2023-อหังการ์ทีมปล้นประดาน้ำ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/c567cd703a892a231c613a0f/c567cd703a892a231c613a0f438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Honey Sweet (2023) รักโคตรจี๊ดของนายโคตรจืด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Honey-Sweet-2023-รักโคตรจี๊ดของนายโคตรจืด-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/8d5e61d9220e906c08daa5b3/8d5e61d9220e906c08daa5b3438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Dog Days (2024) ด็อกเดย์ สี่ขาว้าวุ่น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Dog-Days-2024-ด็อกเดย์-สี่ขาว้าวุ่น-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/0164d5e003331fb3c029b748/0164d5e003331fb3c029b748438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Master (2016) ล่าโกง อย่ายิงมันแค่โป้งเดียว",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Master-2016-ล่าโกง-อย่ายิงมันแค่โป้งเดียว-300x450.jpg",
-      "url": "https://www.123-hd.com/api/fileprocess.html",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Ajoomma (2022) คุณป้าซารางเฮ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Ajoomma-2022-คุณป้าซารางเฮ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/273ebb7a7c8d56bca0ef37ef/273ebb7a7c8d56bca0ef37ef438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024-ผมชื่อโรกีวาน-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/b09cb775781425d6017221aa/b09cb775781425d6017221aa438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Roundup (2022) บู๊ระห่ำ ล่าล้างนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/The-Roundup-2022-บู๊ระห่ำ-ล่าล้างนรก-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/ff6daf8aebcf86e16c7bfff0/ff6daf8aebcf86e16c7bfff0438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Roundup No Way Out (2023) บู๊ระห่ำล่าล้างนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/14f851ced055973ad561ab9d/14f851ced055973ad561ab9d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Witch Part 2 The Other One (2022) แม่มดมือสังหาร 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Witch-Part-2-The-Other-One-2022-แม่มดมือสังหาร-2-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/0d40a46713cd1fa5679cdb14/0d40a46713cd1fa5679cdb14438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Badland Hunters (2024) นักล่ากลางนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Badland-Hunters-2024-นักล่ากลางนรก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/0477f922928e34d2458802c5/0477f922928e34d2458802c5438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Thirst (2009) นักบวชผี ปีศาจแวมไพร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Thirst-2009-นักบวชผี-ปีศาจแวมไพร์-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2f9445a7ef33065002e77c6e/2f9445a7ef33065002e77c6e438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "6/45 Lucky Lotto (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/645-Lucky-Lotto-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/b2c568b7f6337f04ec9beb64/b2c568b7f6337f04ec9beb64438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -422,13 +352,6 @@
       "name": "Scent Of Ghost (2019) ห้องนี้มีผีหรอ",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Scent-Of-Ghost-2019-ห้องนี้มีผีหรอ-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/236daece0be1fdd1983a0dc4/236daece0be1fdd1983a0dc4438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Voice (2017) เสียงผีดุ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Voice-2005-เสียงผีดุ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/77269b77d21d1b688a4da7f4/77269b77d21d1b688a4da7f4438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
