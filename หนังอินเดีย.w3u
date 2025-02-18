@@ -1,10 +1,17 @@
 {
   "name": "หนังอินเดีย",
-  "author": "อัพเดท 25/01/2025",
+  "author": "อัพเดท 18/02/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังอินเดีย.w3u",
   "stations": [
+    {
+      "name": "Dhoom Dhaam (2025)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/2dbf0cfb5e51af47cd5aabf9/2dbf0cfb5e51af47cd5aabf9438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Happy Hardy And Heer จะรักยังไง หัวใจดวงเดียว (2020)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Happy-Hardy-And-Heer-จะรักยังไง-หัวใจดวงเดียว-2020-300x450.jpg",
@@ -48,65 +55,9 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Wild Wild Punjab (2024) ปัญจาบป่วน มันส์ ฮา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Wild-Wild-Punjab-2024-ปัญจาบป่วน-มันส์-ฮา-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/a1b5240540920a006b4de60e/a1b5240540920a006b4de60e438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Maharaj (2024) มหาราช",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Maharaj-2024-มหาราช-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/75eb7bbc7b9daaad7b61f3d0/75eb7bbc7b9daaad7b61f3d0438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Mallari-2024-มัลลารี-ตำนานเชือด-โลกสะท้าน-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/28daa41f36d12f4ff213e4ef/28daa41f36d12f4ff213e4ef438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Midnight's Children (2012) ปาฏิหาริย์ทารกรัตติกาล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Midnights-Children-2012-ปาฏิหาริย์ทารกรัตติกาล-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/da01f60aae89e27df2c49a59/da01f60aae89e27df2c49a59438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Lootcase (2020) ยกเค้า กระเป๋ามาเฟีย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Lootcase-2020-ยกเค้า-กระเป๋ามาเฟีย-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/a586d5eaf48a152d5a5bc091/a586d5eaf48a152d5a5bc091438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Ponniyin Selvan Part 2 (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/fbe9f02200de1f4eb5a7898e/fbe9f02200de1f4eb5a7898e438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Slumdog Millionaire (2008) คำตอบสุดท้าย...อยู่ที่หัวใจ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Slumdog-Millionaire-2008-คำตอบสุดท้าย...อยู่ที่หัวใจ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/3a805d5fb1fa27dfb4f6cea3/3a805d5fb1fa27dfb4f6cea3438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Kadvi Hawa (2017) ฟ้าลิชิตขีวิตต้องสู้",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Kadvi-Hawa-2017-ฟ้าลิชิตขีวิตต้องสู้-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/3926efeeae8f94b781125693/3926efeeae8f94b781125693168.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Dil Bechara (2020) ใจบันดาลฝัน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Dil-Bechara-2020-ใจบันดาลฝัน-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/192a4b197aac1ab37769895e/192a4b197aac1ab37769895e168.m3u8",
+      "name": "777 Charlie (2022) ชาร์ลี มะหมาท้าโลกให้รัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/777-Charlie-2022-ชาร์ลี-มะหมาท้าโลกให้รัก-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/af6a1352151842e46f0da6c8/af6a1352151842e46f0da6c8438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
