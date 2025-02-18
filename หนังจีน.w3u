@@ -1,10 +1,38 @@
 {
   "name": "หนังจีน",
-  "author": "อัพเดท 25/01/2025",
+  "author": "อัพเดท 18/02/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังจีน.w3u",
   "stations": [
+    {
+      "name": "Night of Soul Returning (2023) ค่ำคืนคืนวิญญาณ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Night-of-Soul-Returning-2023-ค่ำคืนคืนวิญญาณ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/bb1f93ecb48d5dfcd87b6617/bb1f93ecb48d5dfcd87b6617438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "League of Gods The Fall of Sheng (2023) ตำนานเทพสวรรค์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/League-of-Gods-The-Fall-of-Sheng-2023-ตำนานเทพสวรรค์-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/7641f55e633c593b9ae2ca4b/7641f55e633c593b9ae2ca4b438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Fangs & Fury (2024) สงครามหมาป่า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Fangs-Fury-2024-สงครามหมาป่า-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/f3f888d286ef4720cd67b75b/f3f888d286ef4720cd67b75b438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Monkey King Fight Lion Camel (2024) ซุนหงอคง ราชาวานร",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Monkey-King-Fight-Lion-Camel-2024-ซุนหงอคง-ราชาวานร-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/a402968ae8d16a072685f23f/a402968ae8d16a072685f23f438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Martial Universe 1 Immortal Stone of Nirvana (2020) มหายุทธหยุดพิภพ 1",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Martial-Universe-1-Immortal-Stone-of-Nirvana-2020-มหายุทธหยุดพิภพ-1-300x450.png",
@@ -30,13 +58,6 @@
       "name": "The Mystery Of Humanoid Puppet (2024) ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Mystery-Of-Humanoid-Puppet-2024-ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด-1-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/051c90fe55dc70c8132d148c/051c90fe55dc70c8132d148c438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Panda Plan (2024) แพนด้าเด้งสู้ฟัด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Panda-Plan-2024-แพนด้าเด้งสู้ฟัด-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/be7109ef82e6abf94225dedf/be7109ef82e6abf94225dedf438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -132,9 +153,23 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Messy temple (2022) ก๊วนสุดจัด วัดอลเวง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Messy-temple-2022-ก๊วนสุดจัด-วัดอลเวง-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/70c7e04e19526384f955a05e/70c7e04e19526384f955a05e438.m3u8",
+      "name": "The Imp (1996) นรกรอรัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Imp-1996-นรกรอรัก-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/e2a44cae74668a317fa11ea1/e2a44cae74668a317fa11ea1438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Painted Heart Twin Tribulations (2023) วาดรัก ใจสองดวง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Painted-Heart-Twin-Tribulations-2023-วาดรัก-ใจสองดวง-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/06dae4e2ea6b8b8c62553dba/06dae4e2ea6b8b8c62553dba438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Die-Hart-2-Die-Harter-2024-ฮาร์ต-อึดเต็มคาราเบล-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/caf94d51a9c4b3b139d8f71d/caf94d51a9c4b3b139d8f71d438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -171,20 +206,6 @@
       "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Miss-You-2024-จากวันนั้น-ถึงวันนี้-ยังคิดถึงเธอ-1-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/78f093d4fc527065a5ee0ce8/78f093d4fc527065a5ee0ce8438.m3u8",
       "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Trending Topic (2023) ฮิตติดเทรนด์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Trending-Topic-2023-ฮิตติดเทรนด์-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/74dd6bc3e32b8cf5483dc8a5/74dd6bc3e32b8cf5483dc8a5438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Viral Factor (2012) เถื่อน เฉือนระห่ำ 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Viral-Factor-2012-เถื่อน-เฉือนระห่ำ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/3e48ae8057ea29680a07a505/3e48ae8057ea29680a07a505438.m3u8",
-      "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
   ]
