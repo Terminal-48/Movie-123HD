@@ -1,10 +1,17 @@
 {
   "name": "หนังเกาหลี",
-  "author": "อัพเดท 18/02/2025",
+  "author": "อัพเดท 05/03/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังเกาหลี.w3u",
   "stations": [
+    {
+      "name": "Spring Garden (2024) บ้านผีกินคน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Spring-Garden-2024-บ้านผีกินคน-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/cefa54844b8dac74f8de457e/cefa54844b8dac74f8de457e438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Devils Stay (2024) ปีศาจปรสิต",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Devils-Stay-2024-ปีศาจปรสิต-1-300x450.png",
@@ -246,7 +253,7 @@
     {
       "name": "The Witch Part 2 The Other One (2022) แม่มดมือสังหาร 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Witch-Part-2-The-Other-One-2022-แม่มดมือสังหาร-2-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/0d40a46713cd1fa5679cdb14/0d40a46713cd1fa5679cdb14438.m3u8",
+      "url": "https://main.24playerhd.com/newplaylist/0d40a46713cd1fa5679cdb14/0d40a46713cd1fa5679cdb14.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -254,83 +261,6 @@
       "name": "Badland Hunters (2024) นักล่ากลางนรก",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Badland-Hunters-2024-นักล่ากลางนรก-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/0477f922928e34d2458802c5/0477f922928e34d2458802c5438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Thirst (2009) นักบวชผี ปีศาจแวมไพร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Thirst-2009-นักบวชผี-ปีศาจแวมไพร์-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/2f9445a7ef33065002e77c6e/2f9445a7ef33065002e77c6e438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "6/45 Lucky Lotto (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/645-Lucky-Lotto-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/b2c568b7f6337f04ec9beb64/b2c568b7f6337f04ec9beb64438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Concrete Utopia (2023) คอนกรีตยูโทเปีย วิมานกลางนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Concrete-Utopia-2023-คอนกรีตยูโทเปีย-วิมานกลางนรก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/f0604aed9663ae35df5c24d6/f0604aed9663ae35df5c24d6438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Closet (2020) ตู้นรก ไม่ได้ผุดไม่ได้เกิด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Closet-2020-ตู้นรก-ไม่ได้ผุดไม่ได้เกิด-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/fba161a10e4c424ca37d1001/fba161a10e4c424ca37d1001438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Childe (2023) เทพบุตร ล่านรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Childe-2023-เทพบุตร-ล่านรก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/bb316f14ae26f9a6056186e4/bb316f14ae26f9a6056186e4438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Believer 2 (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Believer-2-2023-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/5b75b81830d58c47f08633f0/5b75b81830d58c47f08633f0438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Perfect Proposal (2015)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Perfect-Proposal-2015-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/9bd28aa7538ecf88883ee0dc/9bd28aa7538ecf88883ee0dc438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Way Home (2002) คุณยายผม ดีที่สุดในโลก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Way-Home-2002-คุณยายผม-ดีที่สุดในโลก-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/52967317655a7a6459331a827e8f70c3/52967317655a7a6459331a827e8f70c3.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Cold Eyes (2013) โคลด์ อายส์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Cold-Eyes-2013-โคลด์-อายส์-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/a0d4d0d9ca27ebc050985751/a0d4d0d9ca27ebc050985751438.m3u8",
-      "info": "HD (ซับไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "A Hard Day (2014) แผนล่าคนลวง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Hard-Day-2014-แผนล่าคนลวง-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/e789a297dcd7cb33947964de/e789a297dcd7cb33947964de438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Oldboy (2003) เคลียร์บัญชีแค้นจิตโหด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Oldboy-2003-เคลียร์บัญชีแค้นจิตโหด-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/2fba454a073a3b7aae946d297f70d7e5/2fba454a073a3b7aae946d297f70d7e5.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
