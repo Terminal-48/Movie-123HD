@@ -1,10 +1,31 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "อัพเดท 18/02/2025",
+  "author": "อัพเดท 05/03/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2023.w3u",
   "stations": [
+    {
+      "name": "Home Sweet Hell (2023) เรือนขังผี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Home-Sweet-Hell-2023-เรือนขังผี-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/f643964e4ef2e3a589f9747a/f643964e4ef2e3a589f9747a438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Guardian (2023) ตำรวจ ดิบ เดือด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/The-Guardian-2023-ตำรวจ-ดิบ-เดือด-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/c2d9ea5d335f9f0a2c54f6a0/c2d9ea5d335f9f0a2c54f6a0438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Supposed (2023) สมมติ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Supposed-2023-สมมติ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/2f8faeb14e26c393503d5ce1/2f8faeb14e26c393503d5ce1438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Night of Soul Returning (2023) ค่ำคืนคืนวิญญาณ",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Night-of-Soul-Returning-2023-ค่ำคืนคืนวิญญาณ-300x450.png",
@@ -69,45 +90,38 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "We Grown Now (2023) ตราไว้ในวัยเยาว์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/We-Grown-Now-2023-ตราไว้ในวัยเยาว์-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/1819e62a5ba027eeefdc0e5c/1819e62a5ba027eeefdc0e5c438.m3u8",
+      "name": "The Moon ปฏิบัติการพิชิตจันทร์ (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Moon-ปฏิบัติการพิชิตจันทร์-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/00f6285d0ec71942c4ce78bd/00f6285d0ec71942c4ce78bd438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "May December (2023) รัก ร่าน ร้าย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/May-December-2023-รัก-ร่าน-ร้าย-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/433c2edfb2891cb6621f0ebb/433c2edfb2891cb6621f0ebb438.m3u8",
+      "name": "The White Storm 3 Heaven or Hell คนอันตรายล่าข้ามโลก 3 (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-White-Storm-3-Heaven-or-Hell-คนอันตรายล่าข้ามโลก-3-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/288f7176f98b7420b5cb2d84/288f7176f98b7420b5cb2d84438.m3u8",
+      "info": "HD (ซับไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Sijjin (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Sijjin-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/73b1c1759b51e323b5b44f74/73b1c1759b51e323b5b44f74438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Godzilla Minus One (2023) Minus Color",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Godzilla-Minus-One-2023-Minus-Color-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/4b026d2c78ff2a915849e1ba/4b026d2c78ff2a915849e1ba438.m3u8",
+      "name": "Abang Adik ล่าฝันเมืองเดือด (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Abang-Adik-ล่าฝันเมืองเดือด-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/7a72336f46b172a5e4144456/7a72336f46b172a5e4144456438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Rebel Moon Part One A Director’s Cut (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Rebel-Moon-Part-One-A-Child-of-Fire-2023-บุตรแห่งเปลวไฟ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/d1ccc983190d22ef8ffa96c3/d1ccc983190d22ef8ffa96c3438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Bricklayer (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Bricklayer-2023-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/709a113400943e72a137de12/709a113400943e72a137de12438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Anyone But You (2023) เกลียดนัก รักซะเลย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anyone-But-You-2023-เกลียดนัก-รักซะเลย-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/c0af15b6d078cd5926f008fc/c0af15b6d078cd5926f008fc438.m3u8",
-      "info": "HD (พากย์ไทย)",
+      "name": "His Three Daughters สามสาว ลูกสาวพ่อ (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/His-Three-Daughters-สามสาว-ลูกสาวพ่อ-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/4c6518013d25210d6fb87675/4c6518013d25210d6fb87675438.m3u8",
+      "info": "HD (ซับไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
@@ -176,7 +190,7 @@
     {
       "name": "E-Sarn Zombie (2023) อีสานซอมบี้",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/06/E-Sarn-Zombie-2023-อีสานซอมบี้-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/c39dc02f5a5523b60c0e6f19/c39dc02f5a5523b60c0e6f19438.m3u8",
+      "url": "https://main.24playerhd.com/newplaylist/c39dc02f5a5523b60c0e6f19/c39dc02f5a5523b60c0e6f19.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -310,20 +324,6 @@
       "name": "Talk to Me (2023) จับ มือ ผี",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-จับ-มือ-ผี-300x450.jpg",
       "url": "https://main.24playerhd.com/m3u8/dc3c841510c21255de2ef962/dc3c841510c21255de2ef962438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "OverHaul (2023) ซิ่งแรงแซงตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/OverHaul-2023-ซิ่งแรงแซงตาย-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/a15b93e643bebfb8ba5bcb08/a15b93e643bebfb8ba5bcb08438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Smugglers (2023) อหังการ์ทีมปล้นประดาน้ำ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Smugglers-2023-อหังการ์ทีมปล้นประดาน้ำ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/c567cd703a892a231c613a0f/c567cd703a892a231c613a0f438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
