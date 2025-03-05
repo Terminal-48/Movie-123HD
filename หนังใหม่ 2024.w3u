@@ -1,10 +1,108 @@
 {
   "name": "หนังใหม่ 2024",
-  "author": "อัพเดท 18/02/2025",
+  "author": "อัพเดท 05/03/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2024.w3u",
   "stations": [
+    {
+      "name": "Customs Frontline (2024) คนมหากาฬพิฆาตนรก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Customs-Frontline-2024-คนมหากาฬพิฆาตนรก-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/836c4292d0a75e4ab6fce20b/836c4292d0a75e4ab6fce20b438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Tenant (2024) ผู้เช่า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/The-Tenant-2024-ผู้เช่า-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/352868f61e55e8c4aa35b7a3/352868f61e55e8c4aa35b7a3438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Order (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/The-Order-2024-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/ff1a1e84c88220f9d999de11/ff1a1e84c88220f9d999de11438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Dominion of Darkness (2024) กัวซา ผีสาปนรกส่ง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Dominion-of-Darkness-2024-กัวซา-ผีสาปนรกส่ง-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/b3fae507c96f2430d16cb791/b3fae507c96f2430d16cb791438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Police Modify (2024) ตำรวจแต่ง กำเนิดผู้พิทักษ์สันติหลุด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Police-Modify-2024-ตำรวจแต่ง-กำเนิดผู้พิทักษ์สันติหลุด-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/d4fa5354e4f21374b8af5cfe/d4fa5354e4f21374b8af5cfe438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Harold-and-the-Purple-Crayon-2024-แฮโรลด์กับสีเทียนมหัศจรรย์-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/031ea419f9db320308b49579/031ea419f9db320308b49579438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Elite of Devils (2024) หม่อม",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/The-Elite-of-Devils-2024-หม่อม-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/cca9a98ac99a1843d62ac1bf/cca9a98ac99a1843d62ac1bf438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Body Guard (2024) เดอะบอดี้การ์ด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/The-Body-Guard-2024-เดอะบอดี้การ์ด-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/e4dabd992c1e3f1d2a0b160f/e4dabd992c1e3f1d2a0b160f438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Dangerous Boys 2 (2024) วัยเป้ง นักเลงขาสั้น 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Dangerous-Boys-2-2024-วัยเป้ง-นักเลงขาสั้น-2-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/9df75aaa0b4d8d828fc6a45e/9df75aaa0b4d8d828fc6a45e438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Spring Garden (2024) บ้านผีกินคน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Spring-Garden-2024-บ้านผีกินคน-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/cefa54844b8dac74f8de457e/cefa54844b8dac74f8de457e438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "My Hero Academia You're Next (2024) มาย ฮีโร่ อคาเดเมีย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/My-Hero-Academia-Youre-Next-2024-มาย-ฮีโร่-อคาเดเมีย-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/bb923c1ff7aeb979f47c72c6/bb923c1ff7aeb979f47c72c6438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "New Dragon Gate Inn (2024) เดชคัมภีร์แดนพยัคฆ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/New-Dragon-Gate-Inn-2024-เดชคัมภีร์แดนพยัคฆ์-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/e18643b1b9739d02c171c154/e18643b1b9739d02c171c154438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Death Game (2024) เกมท้าตาย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/The-Death-Game-2024-เกมท้าตาย-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/fd9af1954f0a15e6d76e2ad7/fd9af1954f0a15e6d76e2ad7438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Mufasa The Lion King (2024) มูฟาซา เดอะ ไลอ้อน คิง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Mufasa-The-Lion-King-2024-มูฟาซา-เดอะ-ไลอ้อน-คิง-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/ed37837331ce3bf49b50e338/ed37837331ce3bf49b50e338438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Cuckoo (2024) ลางหลอนหุบเขามรณะ",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Cuckoo-2024-300x450.png",
@@ -246,7 +344,7 @@
     {
       "name": "Striking Rescue คนเดือด​ ซัดนรก (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Striking-Rescue-คนเดือด​-ซัดนรก-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/39c4722ac51bf2184f5dd67f/39c4722ac51bf2184f5dd67f438.m3u8",
+      "url": "https://main.24playerhd.com/m3u8/d9838491637e83cacd42f635/d9838491637e83cacd42f635438.m3u8",
       "info": "ZOOM (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -303,6 +401,27 @@
       "name": "Joy (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Joy-2024-300x450.jpg",
       "url": "https://www.123-hd.com/api/fileprocess.html",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Spellbound (2024) ผจญภัยแดนต้องสาป",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Spellbound-ผจญภัยแดนต้องสาป-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/00050cca811fac21a2c52e11/00050cca811fac21a2c52e11438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Piano Lesson (2024) บทเรียนจากเปียโน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Piano-Lesson-บทเรียนจากเปียโน-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/9aa168942f16ed04c3937537/9aa168942f16ed04c3937537438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Cursed Land (2024) แดนสาป",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-แดนสาป-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
