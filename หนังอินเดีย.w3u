@@ -1,6 +1,6 @@
 {
   "name": "หนังอินเดีย",
-  "author": "อัพเดท 05/03/2025",
+  "author": "อัพเดท 13/03/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังอินเดีย.w3u",
@@ -55,9 +55,30 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "777 Charlie (2022) ชาร์ลี มะหมาท้าโลกให้รัก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/777-Charlie-2022-ชาร์ลี-มะหมาท้าโลกให้รัก-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/af6a1352151842e46f0da6c8/af6a1352151842e46f0da6c8438.m3u8",
+      "name": "Midnight's Children (2012) ปาฏิหาริย์ทารกรัตติกาล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Midnights-Children-2012-ปาฏิหาริย์ทารกรัตติกาล-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/da01f60aae89e27df2c49a59/da01f60aae89e27df2c49a59438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Lootcase (2020) ยกเค้า กระเป๋ามาเฟีย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Lootcase-2020-ยกเค้า-กระเป๋ามาเฟีย-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/a586d5eaf48a152d5a5bc091/a586d5eaf48a152d5a5bc091438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Ponniyin Selvan Part 2 (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/fbe9f02200de1f4eb5a7898e/fbe9f02200de1f4eb5a7898e438.m3u8",
+      "info": "HD (ซับไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Slumdog Millionaire (2008) คำตอบสุดท้าย...อยู่ที่หัวใจ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Slumdog-Millionaire-2008-คำตอบสุดท้าย...อยู่ที่หัวใจ-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/3a805d5fb1fa27dfb4f6cea3/3a805d5fb1fa27dfb4f6cea3438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     }
