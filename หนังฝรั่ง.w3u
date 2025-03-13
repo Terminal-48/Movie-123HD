@@ -1,10 +1,73 @@
 {
   "name": "หนังฝรั่ง",
-  "author": "อัพเดท 05/03/2025",
+  "author": "อัพเดท 13/03/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังฝรั่ง.w3u",
   "stations": [
+    {
+      "name": "Mickey 17 (2025) มิกกี้ 17",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Mickey-17-2025-มิกกี้-17-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/4d275f926106a511cedc67db/4d275f926106a511cedc67db438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Cleaner (2025) ไต่ระทึกตึกนรก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Cleaner-2025-ไต่ระทึกตึกนรก-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/be6cf8b6806dcf968a11799d/be6cf8b6806dcf968a11799d438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Grafted (2024) ถลก...นังหน้าสวย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Grafted-2024-ถลก.นังหน้าสวย-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/f1ccd2ec90a5039cb3c595fe/f1ccd2ec90a5039cb3c595fe438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Paddington in Peru (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Paddington-in-Peru-2024-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/a8070f993073d097eb393507/a8070f993073d097eb393507438.m3u8",
+      "info": "ZOOM (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Captain America Brave New World (2025) กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025-กัปตัน-อเมริกา-ศึกฮีโร่จักรวาลใหม่-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/976de590c63cbb55c5428776/976de590c63cbb55c5428776438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Delicious (2025) โอชะ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Delicious-2025-โอชะ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/702e8cc5c52282d903ed2026/702e8cc5c52282d903ed2026438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Nadaaniyan (2025) หัวใจติดกับ รักผิดแผน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Nadaaniyan-2025-หัวใจติดกับ-รักผิดแผน-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/781db1a6860032f312213326/781db1a6860032f312213326438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Picture This (2025) โฟกัสรักให้ชัดสักที",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Picture-This-2025-โฟกัสรักให้ชัดสักที-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/604598501a66e32426e0b4b6/604598501a66e32426e0b4b6438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The League of Extraordinary Gentlemen (2003) เดอะ ลีค มหัศจรรย์ชน คนพิทักษ์โลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-League-of-Extraordinary-Gentlemen-2003-เดอะ-ลีค-มหัศจรรย์ชน-คนพิทักษ์โลก-300x450.png",
+      "url": "https://hot.24playerhd.com/newplaylist/a9c334625bde57247730ab36014395ce/a9c334625bde57247730ab36014395ce.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "The Order (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/12/The-Order-2024-1-300x450.png",
@@ -16,6 +79,13 @@
       "name": "Squad 36 (2025) หน่วย 36 ตำรวจมือพระกาฬ",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Squad-36-2025-หน่วย-36-ตำรวจมือพระกาฬ-1-300x450.png",
       "url": "https://main.24playerhd.com/m3u8/81a5a6ef4822260dc8b94549/81a5a6ef4822260dc8b94549438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Sosyal Climbers (2025) ตกกระไดพลอยรวย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Sosyal-Climbers-2025-ตกกระไดพลอยรวย-1-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/3a849441b6aa6bfae30fafce/3a849441b6aa6bfae30fafce438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -48,23 +118,9 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Companion (2025) คอมแพเนียน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Companion-2025-คอมแพเนียน-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/515688afbdb3887d98a9bb10/515688afbdb3887d98a9bb10438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
       "name": "Den of Thieves 2 Pantera (2025)",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025-300x450.png",
       "url": "https://main.24playerhd.com/m3u8/2efb42cffa2e72c88f9ad574/2efb42cffa2e72c88f9ad574438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Captain America Brave New World (2025) กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025-กัปตัน-อเมริกา-ศึกฮีโร่จักรวาลใหม่-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/32b237c67db368bfdd47c8b6/32b237c67db368bfdd47c8b6438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -111,58 +167,23 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/770c684c2c433bbd01931bbd/770c684c2c433bbd01931bbd438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Back in Action (2025) สายลับกลับมาลุย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Back-in-Action-2025-สายลับกลับมาลุย-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/ec03b0ca7e1153ae887f095f/ec03b0ca7e1153ae887f095f438.m3u8",
+      "name": "Biggest Heist Ever ปล้นมโหฬาร (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Biggest-Heist-Ever-ปล้นมโหฬาร-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/b5909b45c57b9dabc66098a1/b5909b45c57b9dabc66098a1438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Hellboy The Crooked Man (2024) เฮลล์บอย นรกปราบนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Hellboy-The-Crooked-Man-2024-เฮลล์บอย-นรกปราบนรก-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/183d10f919b879823fb86766/183d10f919b879823fb86766438.m3u8",
+      "name": "The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/dd1f631ed19cb8fc5977f351/dd1f631ed19cb8fc5977f351438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "The Calendar Killer (2025) คาเลนดาร์คิลเลอร์ วันสั่งตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/1b5fd4d95c2691866e9c8db4/1b5fd4d95c2691866e9c8db4438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Unstoppable (2024) สู้สุดใจไม่หยุดฝัน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Unstoppable-2024-สู้สุดใจไม่หยุดฝัน-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/fb62a34da011c2530585161f/fb62a34da011c2530585161f438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Kraven the Hunter (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Kraven-the-Hunter-2024-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/85d531a7ab3930618e4692bc/85d531a7ab3930618e4692bc438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Gladiator II แกลดดิเอเตอร์ นักรบผู้กล้า ผ่าแผ่นดินทรราช 2 (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Gladiator-II-แกลดดิเอเตอร์-นักรบผู้กล้า-ผ่าแผ่นดินทรราช-2-2024-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/da2777a63531462dbb643d2f/da2777a63531462dbb643d2f438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Boy Kills World (2024) แค้นนี้ที่รอคิวล์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Boy-Kills-World-2024-แค้นนี้ที่รอคิวล์-1-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/43f3968ffba0d69bc900931f/43f3968ffba0d69bc900931f438.m3u8",
+      "name": "Camp Crasher คุณแม่ป่วนค่าย (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Camp-Crasher-คุณแม่ป่วนค่าย-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/6696b7818b5ff7507ef7ccdb/6696b7818b5ff7507ef7ccdb438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -218,6 +239,48 @@
     {
       "name": "Joy (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Joy-2024-300x450.jpg",
+      "url": "https://www.123-hd.com/api/fileprocess.html",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Spellbound (2024) ผจญภัยแดนต้องสาป",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Spellbound-ผจญภัยแดนต้องสาป-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/00050cca811fac21a2c52e11/00050cca811fac21a2c52e11438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Piano Lesson (2024) บทเรียนจากเปียโน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Piano-Lesson-บทเรียนจากเปียโน-2024-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/9aa168942f16ed04c3937537/9aa168942f16ed04c3937537438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Expendables (2010) โครตคนทีมมหากาฬ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Expendables-2010-โครตคนทีมมหากาฬ-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/3e22d1686bdba08065f7ee69/3e22d1686bdba08065f7ee69438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Expend4bles (2023) โคตรคนทีมมหากาฬ 4",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Expend4bles-2023-โคตรคนทีมมหากาฬ-4-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/6492c2c406e784a3cb8e6298/6492c2c406e784a3cb8e6298438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Hot Frosty ฟรอสตี้สุดฮอต (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Hot-Frosty-ฟรอสตี้สุดฮอต-2024-300x450.jpg",
+      "url": "https://www.123-hd.com/api/fileprocess.html",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Lost Children เด็กสาบสูญ (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Lost-Children-เด็กสาบสูญ-2024-300x450.jpg",
       "url": "https://www.123-hd.com/api/fileprocess.html",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
