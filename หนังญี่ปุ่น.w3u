@@ -1,10 +1,24 @@
 {
   "name": "หนังญี่ปุ่น",
-  "author": "อัพเดท 13/03/2025",
+  "author": "อัพเดท 25/04/2025",
   "info": "",
   "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังญี่ปุ่น.w3u",
   "stations": [
+    {
+      "name": "Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-2025-ระเบิดรถด่วนขบวนระห่ำ-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/a61ec38e5f6bae95134f2521/a61ec38e5f6bae95134f2521438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Cells at Work (2024) เซลล์ขยันพันธุ์เดือด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/Cells-at-Work-2024-เซลล์ขยันพันธุ์เดือด-300x450.png",
+      "url": "https://main.24playerhd.com/m3u8/ba7e594d8731fd8fedbd23cd/ba7e594d8731fd8fedbd23cd438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
     {
       "name": "Demon City (2025) เมืองอสูร",
       "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Demon-City-2025-เมืองอสูร-300x450.png",
@@ -127,7 +141,7 @@
     {
       "name": "Battle Royale (2000) เกมนรก โรงเรียนพันธุ์โหด",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Battle-Royale-2000-เกมนรก-โรงเรียนพันธุ์โหด-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/adbdb43776e3b98de4a8ed8d4d5d27c5/adbdb43776e3b98de4a8ed8d4d5d27c5.m3u8",
+      "url": "https://hot.24playerhd.com/newplaylist/02da77b98966377f858f4a91f3b93c5a/02da77b98966377f858f4a91f3b93c5a.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -190,7 +204,7 @@
     {
       "name": "Parasyte Part 2 (2015) ปรสิต 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Parasyte-Part-2-2015-ปรสิต-2-300x450.jpg",
-      "url": "https://main.24playerhd.com/newplaylist/e1033cba33cc06a935c03f01/e1033cba33cc06a935c03f01.m3u8",
+      "url": "https://main.24playerhd.com/m3u8/e1033cba33cc06a935c03f01/e1033cba33cc06a935c03f01438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -202,16 +216,23 @@
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Gintama (2017) กินทามะ ซามูไร เพี้ยนสารพัด กินทามะ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Gintama-2017-กินทามะ-ซามูไร-เพี้ยนสารพัด-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/63ed09a0459b93a4cd4cc65c/63ed09a0459b93a4cd4cc65c438.m3u8",
+      "name": "Death Note (2006) สมุดโน๊ตกระชากวิญญาณ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/e8821e5c1ad6930210bcf455/e8821e5c1ad6930210bcf455438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
     {
-      "name": "Gintama 2 Rules Are Meant To Be Broken (2018) กินทามะ ซามูไร เพี้ยนสารพัด 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Gintama-2-Rules-Are-Meant-To-Be-Broken-2018-กินทามะ-ซามูไร-เพี้ยนสารพัด-2-แหกกฎชิมิก่อนไม่รอแล้วนะ-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/5db793ac7361ea60a9acd60a/5db793ac7361ea60a9acd60a438.m3u8",
+      "name": "Once Upon a Crime (2023) กาลครั้งหนึ่งกับคดีปริศนา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023-กาลครั้งหนึ่งกับคดีปริศนา-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/6536c9993e9a8c05df5301de/6536c9993e9a8c05df5301de438.m3u8",
+      "info": "HD (พากย์ไทย)",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "I Am a Hero (2015) ข้าคือฮีโร่",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/I-Am-a-Hero-2015-ข้าคือฮีโร่-300x450.jpg",
+      "url": "https://main.24playerhd.com/m3u8/ef45e135eb7251faf330c613/ef45e135eb7251faf330c613438.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
@@ -386,7 +407,7 @@
     {
       "name": "My Teacher (2017) หัวใจฉัน แอบรักเซนเซย์",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/06/My-Teacher-2017-หัวใจฉัน-แอบรักเซนเซย์-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/e182d93cee82219ea74aa7e5d01f00c2/e182d93cee82219ea74aa7e5d01f00c2.m3u8",
+      "url": "https://hot.24playerhd.com/newplaylist/20a3b1e562e4e425506599c496da378f/20a3b1e562e4e425506599c496da378f.m3u8",
       "info": "HD (พากย์ไทย)",
       "referer": "https://www.123-hd.com/"
     },
