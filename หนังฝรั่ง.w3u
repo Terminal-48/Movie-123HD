@@ -1,366 +1,905 @@
 {
   "name": "หนังฝรั่ง",
-  "author": "อัพเดท 25/04/2025",
+  "author": "อัพเดท 28/05/2025",
   "info": "",
-  "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+  "image": "https://www.123-hdd.com/wp-content/uploads/2019/10/testa7.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังฝรั่ง.w3u",
-  "stations": [
+  "groups": [
     {
-      "name": "Green Book (2018) กรีนบุ๊ค",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Green-Book-2018-กรีนบุ๊ค-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/e85d97c0aa09c3509a09731b/e85d97c0aa09c3509a09731b438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "1992 (2024) คืนระห่ำโหด คนระห่ำแตก",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2024/11/1992-2024-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "1992 (2024) คืนระห่ำโหด คนระห่ำแตก",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2024/11/1992-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/524f72c8138cabeb96f23deb/524f72c8138cabeb96f23deb438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "The Wolf of Wall Street (2013) คนจะรวย ช่วยไม่ได้",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Wolf-of-Wall-Street-2013-คนจะรวย-ช่วยไม่ได้-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/19d2f500170866432224d9a5/19d2f500170866432224d9a5438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/6e883e8bccc04f558be1c5c7/6e883e8bccc04f558be1c5c7438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "The Blind Side (2009) แม่ผู้นี้มีแต่รักแท้",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/The-Blind-Side-2009-แม่ผู้นี้มีแต่รักแท้-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/b6d8c75cbaaaa7bced2e4fce446e6f4b/b6d8c75cbaaaa7bced2e4fce446e6f4b.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "The Terminal (2004) เดอะ เทอร์มินัล ด้วยรักและมิตรภาพ",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/04/The-Terminal-2004-เดอะ-เทอร์มินัล-ด้วยรักและมิตรภาพ-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Terminal (2004) เดอะ เทอร์มินัล ด้วยรักและมิตรภาพ",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/04/The-Terminal-2004-เดอะ-เทอร์มินัล-ด้วยรักและมิตรภาพ-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/39dbcaa0876d3cc5e8c0bd0cae061c2b/39dbcaa0876d3cc5e8c0bd0cae061c2b.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "Catch Me if You Can (2002) จับให้ได้ ถ้านายแน่จริง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Catch-Me-if-You-Can-2002-จับให้ได้-ถ้านายแน่จริง-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/40d0b4696c6e0dc6b1e580a5/40d0b4696c6e0dc6b1e580a5438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "Cast Away (2000) คนหลุดโลก",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Cast-Away-2000-คนหลุดโลก-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Cast Away (2000) คนหลุดโลก",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Cast-Away-2000-คนหลุดโลก-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/e8d4481614c5399a91e3853a/e8d4481614c5399a91e3853a438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "The 33 (2015) 33 ใต้นรก 200 ชั้น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-33-2015-33-ใต้นรก-200-ชั้น-1-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/ff481fff7ad6fadad1117901ca48a1be/ff481fff7ad6fadad1117901ca48a1be.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "Afraid (2024) เอไอ สั่งสยอง",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Afraid-2024-เอไอ-สั่งสยอง-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Afraid (2024) เอไอ สั่งสยอง",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Afraid-2024-เอไอ-สั่งสยอง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/38062ce2fcf758d21b365786/38062ce2fcf758d21b365786438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "Woman of the Hour (2023) รู้ไหมใครโหด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/Woman-of-the-Hour-2023-รู้ไหมใครโหด-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/054fb266f89f52ab33622519/054fb266f89f52ab33622519438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "The End We Start From (2023) อุ้มลูกฝ่าวิปโยค",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/The-End-We-Start-From-2023-อุ้มลูกฝ่าวิปโยค-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The End We Start From (2023) อุ้มลูกฝ่าวิปโยค",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/The-End-We-Start-From-2023-อุ้มลูกฝ่าวิปโยค-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/ef956e3756d37580351b0bdd/ef956e3756d37580351b0bdd438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
       "name": "A Working Man (2025) นรกหยุดนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/105ba622ac35a006ecf0e6b9/105ba622ac35a006ecf0e6b9438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "A Working Man (2025) นรกหยุดนรก",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "The Burning Sea (2021)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/The-Burning-Sea-2021-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/7730d81938ae7e03eb61061b/7730d81938ae7e03eb61061b438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "The Bayou (2025) มฤตยูงาบ",
+      "image": "https://www.123-hdd.comhttps://www.123-hdd.com/wp-content/themes/halimmovies_54/assets/images/default-poster.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Bayou (2025) มฤตยูงาบ",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.comhttps://www.123-hdd.com/wp-content/themes/halimmovies_54/assets/images/default-poster.jpg",
+          "url": "https://main.24playerhd.com/m3u8/615f03f86d1f3dda6a238ce9/615f03f86d1f3dda6a238ce9438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "Jungle (2017) แดนฝันป่านรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/Jungle-2017-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/130331b086dfe8a2b2a7bb36/130331b086dfe8a2b2a7bb36438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "The Crow (2024) อีกาพญายม",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/The-Crow-2024-อีกาพญายม-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Crow (2024) อีกาพญายม",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/The-Crow-2024-อีกาพญายม-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/b09126699cc146571e77d4a6/b09126699cc146571e77d4a6438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "Sinners (2025) ซินเนอร์ส",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/Sinners-2025-ซินเนอร์ส-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/56e50b68ef7022a6e77718f3/56e50b68ef7022a6e77718f3438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "iHostage (2025) จับตัวประกันสนั่นเมือง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/iHostage-2025-จับตัวประกันสนั่นเมือง-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/83e93aa732ff119e593269f4/83e93aa732ff119e593269f4438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Mickey 17 (2025) มิกกี้ 17",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Mickey-17-2025-มิกกี้-17-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/d30288ae796ac9aed3bb6485/d30288ae796ac9aed3bb6485438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Novocaine-2025-มิสเตอร์โคตรคนทรหด-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/33932cad6569d25343e82855/33932cad6569d25343e82855438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Moogai (2024) ผีลักลูกคน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Moogai-2024-ผีลักลูกคน-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/de2e5cbcf32b29d5c079250d/de2e5cbcf32b29d5c079250d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Amateur (2025) ร้ายสมัครเล่น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Amateur-2025-ร้ายสมัครเล่น-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/05bf6c5e7123a38de7ad314f/05bf6c5e7123a38de7ad314f438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Conjuring (2013) คนเรียกผี",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/The-Conjuring-2013-คนเรียกผี-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/bd8af7a2a2e94376d7896fcb/bd8af7a2a2e94376d7896fcb438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Conjuring The Devil Made Me Do It (2021) คนเรียกผี 3",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/The-Conjuring-The-Devil-Made-Me-Do-It-2021-คนเรียกผี-3-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/4436951f98218a058de550f4/4436951f98218a058de550f4438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Conjuring 2 (2016) คนเรียกผี 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/The-Conjuring-2-2016-คนเรียกผี-2-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/cf2a9e8997756001f860c1927d5ef249/cf2a9e8997756001f860c1927d5ef249.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Prey for the Devil (2022) สวดส่งไปลงนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Prey-for-the-Devil-2022-สวดส่งไปลงนรก-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/cb200752d673625e7d42a00a/cb200752d673625e7d42a00a438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "12 Strong (2018) 12 ตายไม่เป็น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/12-Strong-2018-12-ตายไม่เป็น-300x450.jpg",
-      "url": "https://main.24playerhd.com/m3u8/d6e06037f918c95cea95b984/d6e06037f918c95cea95b984438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Stronger (2017) หัวใจไม่แพ้",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Stronger-2017-หัวใจไม่แพ้-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/69259803784d9ba6dfae2929eaa0ef89/69259803784d9ba6dfae2929eaa0ef89.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Doom (2005) ดูม ล่าตายมนุษย์กลายพันธุ์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Doom-2005-ดูม-ล่าตายมนุษย์กลายพันธุ์-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/fb6c1a0233869f5c4fa162ddf06863af/fb6c1a0233869f5c4fa162ddf06863af.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Monkey (2025) จ๋อจัดตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/The-Monkey-2025-จ๋อจัดตาย-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/26c348f2cf70a85396de0cd7/26c348f2cf70a85396de0cd7438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Banger (2025) ดีเจนอกเครื่องแบบ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/Banger-2025-ดีเจนอกเครื่องแบบ-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/631aa40c795ac19d834cbf9c/631aa40c795ac19d834cbf9c438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/04/A-Minecraft-Movie-2025-ไมน์คราฟต์-มูฟวี่-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/be6388617c059d5ea6431dac/be6388617c059d5ea6431dac438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Final Destination (2000) 7 ต้องตาย โกงความตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Final-Destination-2000-7-ต้องตาย-โกงความตาย-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/0c4a6057f93c1ea00740611511a09d61/0c4a6057f93c1ea00740611511a09d61.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Final Destination 5 (2011) ไฟนอล เดสติเนชั่น 5 โกงตายสุดขีด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Final-Destination-5-2011-ไฟนอล-เดสติเนชั่น-5-โกงตายสุดขีด-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/e7b2a85447fb0b5d6a13754e/e7b2a85447fb0b5d6a13754e438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Final Destination 4 (2009) ไฟนอล เดสติเนชั่น 4 โกงตาย ทะลุตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Final-Destination-4-2009-ไฟนอล-เดสติเนชั่น-4-โกงตาย-ทะลุตาย-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/7be7fd1f1c2c3e1e4f024e4e/7be7fd1f1c2c3e1e4f024e4e438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Final Destination 3 (2006) ไฟนอล เดสติเนชั่น 3 โกงความตาย เย้ยความตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Final-Destination-3-2006-ไฟนอล-เดสติเนชั่น-3-โกงความตาย-เย้ยความตาย-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/2b54409d835822424e0d8978/2b54409d835822424e0d8978438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Final Destination 2 (2003) ไฟนอล เดสติเนชั่น 2 โกงความตาย...แล้วต้องตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Final-Destination-2-2003-ไฟนอล-เดสติเนชั่น-2-โกงความตาย...แล้วต้องตาย-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/c65c281f1eb4516958d8304360b4ba11/c65c281f1eb4516958d8304360b4ba11.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "MaXXXine (2024) แม็กซีน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/MaXXXine-2024-แม็กซีน-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/2ae12135b874a2c74bab3f31/2ae12135b874a2c74bab3f31438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Life List (2025) รายการชีวิต",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/The-Life-List-2025-รายการชีวิต-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/e7e1c0eb0cabe168e43b8190/e7e1c0eb0cabe168e43b8190438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Carjackers (2025) คาร์แจ็กเกอร์ส",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Carjackers-2025-คาร์แจ็กเกอร์ส-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/79f422653140e42875d0546c/79f422653140e42875d0546c438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Holland (2025)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Holland-2025-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/d20f7a98c6dd2189c53089a1/d20f7a98c6dd2189c53089a1438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Companion (2025) คอมแพเนียน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Companion-2025-คอมแพเนียน-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/53691ceae086231e8e3fb513/53691ceae086231e8e3fb513438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Popeye's Revenge (2025)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Popeyes-Revenge-2025-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/58dc80e25e94e1e71f132d9c/58dc80e25e94e1e71f132d9c438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Betting With Ghost (2024) ผีพารวย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Betting-With-Ghost-2024-ผีพารวย-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/13008f41f978658590028367/13008f41f978658590028367438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Cleaner (2025) ไต่ระทึกตึกนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Cleaner-2025-ไต่ระทึกตึกนรก-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/48e2c5a741110e471c386257/48e2c5a741110e471c386257438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "The Haunted Apartment Miss K (2024) ผีนรก 610",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/The-Haunted-Apartment-Miss-K-2024-ผีนรก-610-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Haunted Apartment Miss K (2024) ผีนรก 610",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/The-Haunted-Apartment-Miss-K-2024-ผีนรก-610-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/8a5e1dd00a912a43e7a13092/8a5e1dd00a912a43e7a13092438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
       "name": "Snow White (2025) สโนว์ไวท์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Snow-White-2025-สโนว์ไวท์-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/07be783170a4c3cc0a11a862/07be783170a4c3cc0a11a862438.m3u8",
-      "info": "ZOOM (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Snow-White-2025-สโนว์ไวท์-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Snow White (2025) สโนว์ไวท์",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Snow-White-2025-สโนว์ไวท์-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/1bd66b1cd61988940cb48b66/1bd66b1cd61988940cb48b66438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/A-Minecraft-Movie-2025-ไมน์คราฟต์-มูฟวี่-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/A-Minecraft-Movie-2025-ไมน์คราฟต์-มูฟวี่-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/1665e5b013cc5472128215f5/1665e5b013cc5472128215f5438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Nonnas (2025) รักนะย่ายายจ๋า",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Nonnas (2025) รักนะย่ายายจ๋า",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/bf0b34fc77551817fad1586a/bf0b34fc77551817fad1586a438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Last Bullet (2025) แรงทะลุกระสุน 3",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Last-Bullet-2025-แรงทะลุกระสุน-3-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Last Bullet (2025) แรงทะลุกระสุน 3",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Last-Bullet-2025-แรงทะลุกระสุน-3-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/449127cc06dbce1b37d737e8/449127cc06dbce1b37d737e8438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Assessment (2025) ชีวิตลิขิตไม่ได้",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Assessment (2025) ชีวิตลิขิตไม่ได้",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/abfbe30b725ef7cce5764b6b/abfbe30b725ef7cce5764b6b438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare-2024-แสบจารชนคนพลิกโลก-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare-2024-แสบจารชนคนพลิกโลก-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b6228ea4961be1bc3fdb4b33/b6228ea4961be1bc3fdb4b33438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Plane (2023) ดิ่งน่านฟ้า เดือดเกาะนรก",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2023/01/Plane-2023-ดิ่งน่านฟ้า-เดือดเกาะนรก-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Plane (2023) ดิ่งน่านฟ้า เดือดเกาะนรก",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2023/01/Plane-2023-ดิ่งน่านฟ้า-เดือดเกาะนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0c629aa583940ea63663501c/0c629aa583940ea63663501c438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Thunderbolts* (2025) ธันเดอร์โบลต์ส*",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Thunderbolts-2025-ธันเดอร์โบลต์ส-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Thunderbolts* (2025) ธันเดอร์โบลต์ส*",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Thunderbolts-2025-ธันเดอร์โบลต์ส-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/aff4c7d4e78ab01e6cc82178/aff4c7d4e78ab01e6cc82178438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Another Simple Favor (2025) เพื่อนหาย อย่าหา 2",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Another Simple Favor (2025) เพื่อนหาย อย่าหา 2",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/39367f844594cf54f004da01/39367f844594cf54f004da01438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Exterritorial (2025) พลิกแผนลับลวงระทึก",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Exterritorial-2025-พลิกแผนลับลวงระทึก-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Exterritorial (2025) พลิกแผนลับลวงระทึก",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/05/Exterritorial-2025-พลิกแผนลับลวงระทึก-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/02cca90a7e2414b61c643703/02cca90a7e2414b61c643703438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Speak No Evil เงียบ ซ่อน ตาย (2024)",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2024/11/Speak-No-Evil-เงียบ-ซ่อน-ตาย-2024-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Speak No Evil เงียบ ซ่อน ตาย (2024)",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2024/11/Speak-No-Evil-เงียบ-ซ่อน-ตาย-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b5d506e9176c5c738c4d6e9f/b5d506e9176c5c738c4d6e9f438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Novocaine-2025-มิสเตอร์โคตรคนทรหด-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Novocaine-2025-มิสเตอร์โคตรคนทรหด-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/c957074102de6739a0f7c00a/c957074102de6739a0f7c00a438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Havoc (2025) ฝ่าหายนะครองเมือง",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Havoc-2025-ฝ่าหายนะครองเมือง-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Havoc (2025) ฝ่าหายนะครองเมือง",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Havoc-2025-ฝ่าหายนะครองเมือง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/ac6c9eb592e6f281af432f91/ac6c9eb592e6f281af432f91438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Accountant 2 (2025) อัจฉริยะคนบัญชีเพชฌฆาต 2",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/The-Accountant-2-2025-อัจฉริยะคนบัญชีเพชฌฆาต-2-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Accountant 2 (2025) อัจฉริยะคนบัญชีเพชฌฆาต 2",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/The-Accountant-2-2025-อัจฉริยะคนบัญชีเพชฌฆาต-2-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/3cb567017670e34f3ab65632/3cb567017670e34f3ab65632438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Ash (2025) แอช ดาวมฤตยู",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Ash-2025-แอช-ดาวมฤตยู-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Ash (2025) แอช ดาวมฤตยู",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Ash-2025-แอช-ดาวมฤตยู-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/9e1ee1e5a3361b3cc4c10f7c/9e1ee1e5a3361b3cc4c10f7c438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Green Book (2018) กรีนบุ๊ค",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/01/Green-Book-2018-กรีนบุ๊ค-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Green Book (2018) กรีนบุ๊ค",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/01/Green-Book-2018-กรีนบุ๊ค-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/e85d97c0aa09c3509a09731b/e85d97c0aa09c3509a09731b438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Wolf of Wall Street (2013) คนจะรวย ช่วยไม่ได้",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2023/02/The-Wolf-of-Wall-Street-2013-คนจะรวย-ช่วยไม่ได้-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Wolf of Wall Street (2013) คนจะรวย ช่วยไม่ได้",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2023/02/The-Wolf-of-Wall-Street-2013-คนจะรวย-ช่วยไม่ได้-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/19d2f500170866432224d9a5/19d2f500170866432224d9a5438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Blind Side (2009) แม่ผู้นี้มีแต่รักแท้",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/10/The-Blind-Side-2009-แม่ผู้นี้มีแต่รักแท้-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Blind Side (2009) แม่ผู้นี้มีแต่รักแท้",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/10/The-Blind-Side-2009-แม่ผู้นี้มีแต่รักแท้-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/66f829141e75fc8901a59f99fe76c4fa/66f829141e75fc8901a59f99fe76c4fa.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Catch Me if You Can (2002) จับให้ได้ ถ้านายแน่จริง",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2023/02/Catch-Me-if-You-Can-2002-จับให้ได้-ถ้านายแน่จริง-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Catch Me if You Can (2002) จับให้ได้ ถ้านายแน่จริง",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2023/02/Catch-Me-if-You-Can-2002-จับให้ได้-ถ้านายแน่จริง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/40d0b4696c6e0dc6b1e580a5/40d0b4696c6e0dc6b1e580a5438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The 33 (2015) 33 ใต้นรก 200 ชั้น",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/02/The-33-2015-33-ใต้นรก-200-ชั้น-1-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The 33 (2015) 33 ใต้นรก 200 ชั้น",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/02/The-33-2015-33-ใต้นรก-200-ชั้น-1-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/ff481fff7ad6fadad1117901ca48a1be/ff481fff7ad6fadad1117901ca48a1be.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Woman of the Hour (2023) รู้ไหมใครโหด",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Woman-of-the-Hour-2023-รู้ไหมใครโหด-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Woman of the Hour (2023) รู้ไหมใครโหด",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Woman-of-the-Hour-2023-รู้ไหมใครโหด-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/054fb266f89f52ab33622519/054fb266f89f52ab33622519438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Burning Sea (2021)",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/The-Burning-Sea-2021-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Burning Sea (2021)",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/The-Burning-Sea-2021-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/7730d81938ae7e03eb61061b/7730d81938ae7e03eb61061b438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Jungle (2017) แดนฝันป่านรก",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Jungle-2017-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Jungle (2017) แดนฝันป่านรก",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Jungle-2017-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/130331b086dfe8a2b2a7bb36/130331b086dfe8a2b2a7bb36438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Sinners (2025) ซินเนอร์ส",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Sinners-2025-ซินเนอร์ส-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Sinners (2025) ซินเนอร์ส",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Sinners-2025-ซินเนอร์ส-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/56e50b68ef7022a6e77718f3/56e50b68ef7022a6e77718f3438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "iHostage (2025) จับตัวประกันสนั่นเมือง",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/iHostage-2025-จับตัวประกันสนั่นเมือง-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "iHostage (2025) จับตัวประกันสนั่นเมือง",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/iHostage-2025-จับตัวประกันสนั่นเมือง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/83e93aa732ff119e593269f4/83e93aa732ff119e593269f4438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Mickey 17 (2025) มิกกี้ 17",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Mickey-17-2025-มิกกี้-17-1-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Mickey 17 (2025) มิกกี้ 17",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Mickey-17-2025-มิกกี้-17-1-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/d30288ae796ac9aed3bb6485/d30288ae796ac9aed3bb6485438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Moogai (2024) ผีลักลูกคน",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/The-Moogai-2024-ผีลักลูกคน-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Moogai (2024) ผีลักลูกคน",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/The-Moogai-2024-ผีลักลูกคน-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/de2e5cbcf32b29d5c079250d/de2e5cbcf32b29d5c079250d438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Amateur (2025) ร้ายสมัครเล่น",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/The-Amateur-2025-ร้ายสมัครเล่น-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Amateur (2025) ร้ายสมัครเล่น",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/The-Amateur-2025-ร้ายสมัครเล่น-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/05bf6c5e7123a38de7ad314f/05bf6c5e7123a38de7ad314f438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Conjuring (2013) คนเรียกผี",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2023/01/The-Conjuring-2013-คนเรียกผี-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Conjuring (2013) คนเรียกผี",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2023/01/The-Conjuring-2013-คนเรียกผี-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/bd8af7a2a2e94376d7896fcb/bd8af7a2a2e94376d7896fcb438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Conjuring The Devil Made Me Do It (2021) คนเรียกผี 3",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2023/01/The-Conjuring-The-Devil-Made-Me-Do-It-2021-คนเรียกผี-3-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Conjuring The Devil Made Me Do It (2021) คนเรียกผี 3",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2023/01/The-Conjuring-The-Devil-Made-Me-Do-It-2021-คนเรียกผี-3-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/4436951f98218a058de550f4/4436951f98218a058de550f4438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Conjuring 2 (2016) คนเรียกผี 2",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2023/01/The-Conjuring-2-2016-คนเรียกผี-2-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Conjuring 2 (2016) คนเรียกผี 2",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2023/01/The-Conjuring-2-2016-คนเรียกผี-2-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/e8b4cab485770121e1dbe0e34cf5fe60/e8b4cab485770121e1dbe0e34cf5fe60.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Prey for the Devil (2022) สวดส่งไปลงนรก",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/12/Prey-for-the-Devil-2022-สวดส่งไปลงนรก-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Prey for the Devil (2022) สวดส่งไปลงนรก",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/12/Prey-for-the-Devil-2022-สวดส่งไปลงนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/cb200752d673625e7d42a00a/cb200752d673625e7d42a00a438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "12 Strong (2018) 12 ตายไม่เป็น",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/09/12-Strong-2018-12-ตายไม่เป็น-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "12 Strong (2018) 12 ตายไม่เป็น",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/09/12-Strong-2018-12-ตายไม่เป็น-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d6e06037f918c95cea95b984/d6e06037f918c95cea95b984438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Stronger (2017) หัวใจไม่แพ้",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/06/Stronger-2017-หัวใจไม่แพ้-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Stronger (2017) หัวใจไม่แพ้",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/06/Stronger-2017-หัวใจไม่แพ้-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/91daacdf4e02cf004649b9e35cb9697d/91daacdf4e02cf004649b9e35cb9697d.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Doom (2005) ดูม ล่าตายมนุษย์กลายพันธุ์",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/04/Doom-2005-ดูม-ล่าตายมนุษย์กลายพันธุ์-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Doom (2005) ดูม ล่าตายมนุษย์กลายพันธุ์",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/04/Doom-2005-ดูม-ล่าตายมนุษย์กลายพันธุ์-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/fb6c1a0233869f5c4fa162ddf06863af/fb6c1a0233869f5c4fa162ddf06863af.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Monkey (2025) จ๋อจัดตาย",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/The-Monkey-2025-จ๋อจัดตาย-1-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Monkey (2025) จ๋อจัดตาย",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/The-Monkey-2025-จ๋อจัดตาย-1-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/26c348f2cf70a85396de0cd7/26c348f2cf70a85396de0cd7438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Banger (2025) ดีเจนอกเครื่องแบบ",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Banger-2025-ดีเจนอกเครื่องแบบ-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Banger (2025) ดีเจนอกเครื่องแบบ",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/04/Banger-2025-ดีเจนอกเครื่องแบบ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/631aa40c795ac19d834cbf9c/631aa40c795ac19d834cbf9c438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Final Destination (2000) 7 ต้องตาย โกงความตาย",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-2000-7-ต้องตาย-โกงความตาย-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Final Destination (2000) 7 ต้องตาย โกงความตาย",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-2000-7-ต้องตาย-โกงความตาย-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/1917520b70d087c18c957e7083f9e2a6/1917520b70d087c18c957e7083f9e2a6.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Final Destination 5 (2011) ไฟนอล เดสติเนชั่น 5 โกงตายสุดขีด",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-5-2011-ไฟนอล-เดสติเนชั่น-5-โกงตายสุดขีด-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Final Destination 5 (2011) ไฟนอล เดสติเนชั่น 5 โกงตายสุดขีด",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-5-2011-ไฟนอล-เดสติเนชั่น-5-โกงตายสุดขีด-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/5c6b88dd9dbb20bb4e7b3e90ceacce8a/5c6b88dd9dbb20bb4e7b3e90ceacce8a.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Final Destination 4 (2009) ไฟนอล เดสติเนชั่น 4 โกงตาย ทะลุตาย",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-4-2009-ไฟนอล-เดสติเนชั่น-4-โกงตาย-ทะลุตาย-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Final Destination 4 (2009) ไฟนอล เดสติเนชั่น 4 โกงตาย ทะลุตาย",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-4-2009-ไฟนอล-เดสติเนชั่น-4-โกงตาย-ทะลุตาย-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/970ae441108723a9afa8811426244880/970ae441108723a9afa8811426244880.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Final Destination 3 (2006) ไฟนอล เดสติเนชั่น 3 โกงความตาย เย้ยความตาย",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-3-2006-ไฟนอล-เดสติเนชั่น-3-โกงความตาย-เย้ยความตาย-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Final Destination 3 (2006) ไฟนอล เดสติเนชั่น 3 โกงความตาย เย้ยความตาย",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-3-2006-ไฟนอล-เดสติเนชั่น-3-โกงความตาย-เย้ยความตาย-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/6dd67847b2da5cc5656881f1a3997ea2/6dd67847b2da5cc5656881f1a3997ea2.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Final Destination 2 (2003) ไฟนอล เดสติเนชั่น 2 โกงความตาย...แล้วต้องตาย",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-2-2003-ไฟนอล-เดสติเนชั่น-2-โกงความตาย...แล้วต้องตาย-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Final Destination 2 (2003) ไฟนอล เดสติเนชั่น 2 โกงความตาย...แล้วต้องตาย",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2022/03/Final-Destination-2-2003-ไฟนอล-เดสติเนชั่น-2-โกงความตาย...แล้วต้องตาย-300x450.png",
+          "url": "https://hot.24playerhd.com/newplaylist/4f1a1e046541fc1e8fcb4023cf055465/4f1a1e046541fc1e8fcb4023cf055465.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "MaXXXine (2024) แม็กซีน",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/MaXXXine-2024-แม็กซีน-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "MaXXXine (2024) แม็กซีน",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/MaXXXine-2024-แม็กซีน-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/2ae12135b874a2c74bab3f31/2ae12135b874a2c74bab3f31438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "The Life List (2025) รายการชีวิต",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/The-Life-List-2025-รายการชีวิต-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Life List (2025) รายการชีวิต",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/The-Life-List-2025-รายการชีวิต-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/e7e1c0eb0cabe168e43b8190/e7e1c0eb0cabe168e43b8190438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Carjackers (2025) คาร์แจ็กเกอร์ส",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Carjackers-2025-คาร์แจ็กเกอร์ส-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Carjackers (2025) คาร์แจ็กเกอร์ส",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Carjackers-2025-คาร์แจ็กเกอร์ส-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/79f422653140e42875d0546c/79f422653140e42875d0546c438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Holland (2025)",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Holland-2025-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Holland (2025)",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Holland-2025-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/d20f7a98c6dd2189c53089a1/d20f7a98c6dd2189c53089a1438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Companion (2025) คอมแพเนียน",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/02/Companion-2025-คอมแพเนียน-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Companion (2025) คอมแพเนียน",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/02/Companion-2025-คอมแพเนียน-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/53691ceae086231e8e3fb513/53691ceae086231e8e3fb513438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Popeye's Revenge (2025)",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Popeyes-Revenge-2025-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Popeye's Revenge (2025)",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Popeyes-Revenge-2025-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/58dc80e25e94e1e71f132d9c/58dc80e25e94e1e71f132d9c438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Betting With Ghost (2024) ผีพารวย",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Betting-With-Ghost-2024-ผีพารวย-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Betting With Ghost (2024) ผีพารวย",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Betting-With-Ghost-2024-ผีพารวย-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/13008f41f978658590028367/13008f41f978658590028367438.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "name": "Cleaner (2025) ไต่ระทึกตึกนรก",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Cleaner-2025-ไต่ระทึกตึกนรก-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Cleaner (2025) ไต่ระทึกตึกนรก",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Cleaner-2025-ไต่ระทึกตึกนรก-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/48e2c5a741110e471c386257/48e2c5a741110e471c386257438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
       "name": "Little Siberia (2025) ลิตเติ้ล​ ไซบีเรีย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Little-Siberia-2025-ลิตเติ้ล​-ไซบีเรีย-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/5040f5541ea8e6708e787df1/5040f5541ea8e6708e787df1438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Little-Siberia-2025-ลิตเติ้ล​-ไซบีเรีย-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Little Siberia (2025) ลิตเติ้ล​ ไซบีเรีย",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Little-Siberia-2025-ลิตเติ้ล​-ไซบีเรีย-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/5040f5541ea8e6708e787df1/5040f5541ea8e6708e787df1438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
       "name": "Tyler Perry's Duplicity (2025) การหลอกลวงของไทเลอร์ เพอร์รี่",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Tyler-Perrys-Duplicity-2025-การหลอกลวงของไทเลอร์-เพอร์รี่-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/b0c84cc9f1f80f862fe15dfc/b0c84cc9f1f80f862fe15dfc438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Tyler-Perrys-Duplicity-2025-การหลอกลวงของไทเลอร์-เพอร์รี่-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Tyler Perry's Duplicity (2025) การหลอกลวงของไทเลอร์ เพอร์รี่",
+          "info": "HD (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Tyler-Perrys-Duplicity-2025-การหลอกลวงของไทเลอร์-เพอร์รี่-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/b0c84cc9f1f80f862fe15dfc/b0c84cc9f1f80f862fe15dfc438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "Nadaaniyan (2025) หัวใจติดกับ รักผิดแผน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Nadaaniyan-2025-หัวใจติดกับ-รักผิดแผน-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/781db1a6860032f312213326/781db1a6860032f312213326438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "Renfield (2023) เรนฟิลด์",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2023/04/Renfield-2023-เรนฟิลด์-300x450.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Renfield (2023) เรนฟิลด์",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2023/04/Renfield-2023-เรนฟิลด์-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/42c03b384bc379324054ec3d/42c03b384bc379324054ec3d438.m3u8",
+          "referer": ""
+        }
+      ]
     },
     {
-      "name": "Picture This (2025) โฟกัสรักให้ชัดสักที",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/03/Picture-This-2025-โฟกัสรักให้ชัดสักที-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/604598501a66e32426e0b4b6/604598501a66e32426e0b4b6438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The League of Extraordinary Gentlemen (2003) เดอะ ลีค มหัศจรรย์ชน คนพิทักษ์โลก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-League-of-Extraordinary-Gentlemen-2003-เดอะ-ลีค-มหัศจรรย์ชน-คนพิทักษ์โลก-300x450.png",
-      "url": "https://hot.24playerhd.com/newplaylist/a9c334625bde57247730ab36014395ce/a9c334625bde57247730ab36014395ce.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Order (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/The-Order-2024-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/ff1a1e84c88220f9d999de11/ff1a1e84c88220f9d999de11438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Squad 36 (2025) หน่วย 36 ตำรวจมือพระกาฬ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Squad-36-2025-หน่วย-36-ตำรวจมือพระกาฬ-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/81a5a6ef4822260dc8b94549/81a5a6ef4822260dc8b94549438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Sosyal Climbers (2025) ตกกระไดพลอยรวย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Sosyal-Climbers-2025-ตกกระไดพลอยรวย-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/3a849441b6aa6bfae30fafce/3a849441b6aa6bfae30fafce438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Wrong Track (2025) เส้นทางพิสูจน์ใจ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/The-Wrong-Track-2025-เส้นทางพิสูจน์ใจ-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/cfc55aeedf5ed08401c6c18d/cfc55aeedf5ed08401c6c18d438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/02/Harold-and-the-Purple-Crayon-2024-แฮโรลด์กับสีเทียนมหัศจรรย์-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/031ea419f9db320308b49579/031ea419f9db320308b49579438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Wolf Man (2025) มนุษย์หมาป่า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Wolf-Man-2025-1-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/8bd2dd1a8d55bddb0a20c39a/8bd2dd1a8d55bddb0a20c39a438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Den of Thieves 2 Pantera (2025)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025-300x450.png",
-      "url": "https://main.24playerhd.com/m3u8/2efb42cffa2e72c88f9ad574/2efb42cffa2e72c88f9ad574438.m3u8",
-      "info": "HD (พากย์ไทย)",
-      "referer": "https://www.123-hd.com/"
+      "name": "Strange Darling (2024) รัก ลวง ฆ่า",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Strange-Darling-2024-รัก-ลวง-ฆ่า-300x450.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Strange Darling (2024) รัก ลวง ฆ่า",
+          "info": "ZOOM (พากย์ไทย)",
+          "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Strange-Darling-2024-รัก-ลวง-ฆ่า-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/7503cc47719e75530b2f96cb/7503cc47719e75530b2f96cb438.m3u8",
+          "referer": ""
+        }
+      ]
     }
   ]
 }
